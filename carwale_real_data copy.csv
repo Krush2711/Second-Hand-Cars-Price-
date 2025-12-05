@@ -1,0 +1,766 @@
+Name,Price,Kilometers,Fuel,Location,Price_Numeric
+2023 Maruti Suzuki XL6 Alpha Plus AT Petrol [2022-2023],Rs. 11.5 Lakh,"56,123 km",Petrol,"Malad(W), Mumbai",1150000.0
+2023 Hyundai Aura SX 1.2 CNG,Rs. 6.85 Lakh,"34,900 km",CNG,"Azad Nagar, Mumbai",685000.0
+2019 Maruti Suzuki XL6 Alpha AT Petrol,Rs. 10.59 Lakh,"35,806 km",Petrol,"Malad(W), Mumbai",1059000.0
+2024 Maruti Suzuki Grand Vitara Zeta Smart Hybrid AT [2023-2025],Rs. 14.99 Lakh,"5,680 km",Petrol,"Malad(W), Mumbai",1499000.0
+2016 Maruti Suzuki Baleno Zeta 1.2 AT,Rs. 4.99 Lakh,"34,036 km",Petrol,"Malad(W), Mumbai",499000.0
+2022 Maruti Suzuki XL6 Zeta MT Petrol,Rs. 9.99 Lakh,"51,352 km",Petrol,"Malad(W), Mumbai",999000.0
+2023 Maruti Suzuki Ertiga VXi (O) [2023-2025],Rs. 9.75 Lakh,"15,000 km",Petrol,"Andheri (E), Mumbai",975000.0
+2021 Toyota Fortuner 4x2 2WD Diesel 2.8L Turbo 6 Speed Manual,Rs. 34.75 Lakh,"28,000 km",Diesel,"Khar West, Mumbai",3475000.0
+2021 Maruti Suzuki Ertiga VXI AT,Rs. 8.45 Lakh,"67,000 km",Petrol,"Azad Nagar, Mumbai",844999.9999999999
+2018 Renault Duster RXS CVT,Rs. 5.99 Lakh,"73,234 km",Petrol,"Topiwala Center, Mumbai",599000.0
+2023 Mahindra XUV700 AX7 Luxury Pack 2WD Petrol 2.0L Turbo Automatic 7 STR,Rs. 18.95 Lakh,"31,000 km",Petrol,"Azad Nagar, Mumbai",1895000.0
+2021 Maruti Suzuki DZire ZXi AGS,Rs. 6.55 Lakh,"4,950 km",Petrol,"Borivali (W), Mumbai",655000.0
+2019 Tata Nexon XMA Petrol,Rs. 6.55 Lakh,"47,065 km",Petrol,"Mulund (W), Mumbai",655000.0
+2018 Skoda Kodiaq Style 2.0 TDI 4x4 AT,Rs. 20.5 Lakh,"45,289 km",Diesel,"J. B. Nagar, Mumbai",2050000.0
+2020 Maruti Suzuki XL6 Alpha MT Petrol,Rs. 8.79 Lakh,"58,911 km",Petrol,"Malad(W), Mumbai",878999.9999999999
+2018 Tata Nexon XZ Plus,Rs. 6.75 Lakh,"37,829 km",Petrol,"Malad(W), Mumbai",675000.0
+2023 Tata Safari XT Plus,Rs. 16.49 Lakh,"70,100 km",Diesel,"Dadabhoy Road, Mumbai",1648999.9999999998
+2019 Maruti Suzuki Swift VXi AMT,Rs. 5.45 Lakh,"61,451 km",Petrol,"Malad(W), Mumbai",545000.0
+2020 Renault Duster RXS Opt CVT,Rs. 6.49 Lakh,"62,214 km",Petrol,"Malad(W), Mumbai",649000.0
+2023 Maruti Suzuki Ertiga VXi (O) [2023-2025],Rs. 10.59 Lakh,"20,700 km",Petrol,"Malad(W), Mumbai",1059000.0
+2017 Tata Tiago Revotron XM [2016-2019],Rs. 3.85 Lakh,"39,728 km",Petrol,"Mulund (W), Mumbai",385000.0
+2021 Mahindra Thar LX Convertible Top Petrol AT 4WD,Rs. 12.45 Lakh,"23,000 km",Petrol,"Andheri (E), Mumbai",1245000.0
+2018 Maruti Suzuki Ertiga VXi,Rs. 7.25 Lakh,"44,959 km",Petrol,"Mulund (W), Mumbai",725000.0
+2021 Maruti Suzuki Ertiga ZXi Plus,Rs. 9.5 Lakh,"26,000 km",Petrol,"Bandra(W), Mumbai",950000.0
+2021 Maruti Suzuki XL6 Zeta MT Petrol,Rs. 8.99 Lakh,"47,562 km",Petrol,"Malad(W), Mumbai",899000.0
+2018 Maruti Suzuki Baleno Alpha Automatic,Rs. 5.85 Lakh,"41,158 km",Petrol,"Andheri (E), Mumbai",585000.0
+2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020],Rs. 9.45 Lakh,"40,626 km",Petrol,"Andheri (E), Mumbai",944999.9999999999
+2022 Maruti Suzuki XL6 Zeta MT Petrol,Rs. 9.9 Lakh,"35,614 km",Petrol,"Andheri (E), Mumbai",990000.0
+2022 MG Hector Sharp 2.0 Diesel Turbo MT,Rs. 14.51 Lakh,"31,023 km",Diesel,"Andheri (E), Mumbai",1451000.0
+2019 Maruti Suzuki Baleno Zeta,Rs. 6.65 Lakh,"46,717 km",Petrol,"Borivali (W), Mumbai",665000.0
+2018 Maruti Suzuki Baleno Delta 1.2 AT,Rs. 5.25 Lakh,"46,013 km",Petrol,"Andheri (E), Mumbai",525000.0
+2018 Maruti Suzuki Baleno Zeta 1.2,Rs. 5.35 Lakh,"37,530 km",Petrol,"Kalina, Mumbai",535000.0
+2019 Maruti Suzuki Baleno Delta 1.2 AT,Rs. 5.91 Lakh,"29,358 km",Petrol,"Andheri (E), Mumbai",591000.0
+2018 BMW X1 sDrive20d xLine,Rs. 22.5 Lakh,"64,843 km",Diesel,"Veera Desai Road, Mumbai",2250000.0
+2021 Maruti Suzuki XL6 Alpha AT Petrol,Rs. 10.5 Lakh,"35,757 km",Petrol,"Bandra(W), Mumbai",1050000.0
+2022 Skoda Kushaq Ambition 1.0L TSI AT,Rs. 10.95 Lakh,"40,139 km",Petrol,"Bandra(W), Mumbai",1095000.0
+2021 Maruti Suzuki Ertiga ZXi Plus,Rs. 9.85 Lakh,"16,377 km",Petrol,"Kalina, Mumbai",985000.0
+2018 Mahindra XUV500 W11 (O) AWD AT,Rs. 12.49 Lakh,"45,869 km",Diesel,"Borivali (W), Mumbai",1249000.0
+2023 Mahindra Thar LX Hard Top Petrol AT RWD,Rs. 13.25 Lakh,"19,884 km",Petrol,"Malad(W), Mumbai",1325000.0
+2019 Maruti Suzuki Swift VXi AMT,Rs. 5.95 Lakh,"43,511 km",Petrol,"Juhu, Mumbai",595000.0
+2023 Skoda Kodiaq L&K 4X4 [2022],Rs. 37 Lakh,"13,112 km",Petrol,"Juhu, Mumbai",3700000.0
+2017 Mercedes-Benz GLC 220 d Progressive,Rs. 29.5 Lakh,"54,568 km",Diesel,"Juhu, Mumbai",2950000.0
+2019 Maruti Suzuki Vitara Brezza ZDi AGS,Rs. 8.75 Lakh,"48,277 km",Diesel,"Borivali (W), Mumbai",875000.0
+2021 Maruti Suzuki XL6 Zeta MT Petrol,Rs. 8.75 Lakh,"62,773 km",Petrol,"Topiwala Center, Mumbai",875000.0
+2019 Maruti Suzuki S-Cross Delta 1.3,Rs. 7.95 Lakh,"37,920 km",Diesel,"Andheri (E), Mumbai",795000.0
+2017 Skoda Rapid Ultima Elegance 1.6 MPI AT,Rs. 5.55 Lakh,"64,165 km",Petrol,"Kalina, Mumbai",555000.0
+2021 Jeep Compass Limited (O) 1.4 Petrol AT [2017-2020],Rs. 16.25 Lakh,"32,000 km",Petrol,"Andheri (E), Mumbai",1625000.0
+2023 Mahindra XUV700 AX 7 Diesel AT 7 STR [2021],Rs. 21.7 Lakh,"7,000 km",Diesel,"Borivali (W), Mumbai",2170000.0
+2019 Maruti Suzuki Ertiga ZDI + SHVS,Rs. 10.95 Lakh,"36,000 km",Diesel,"Borivali (W), Mumbai",1095000.0
+2024 Tata Safari Accomplished Plus Dual Tone AT 7 STR,Rs. 25.65 Lakh,"16,800 km",Diesel,"Borivali (W), Mumbai",2565000.0
+2017 Maruti Suzuki Ciaz Alpha 1.4 AT,Rs. 7.11 Lakh,"66,000 km",Petrol,"Borivali (W), Mumbai",711000.0
+2019 Skoda Kodiaq Style 2.0 TDI 4x4 AT,Rs. 20 Lakh,"76,000 km",Diesel,"Borivali (W), Mumbai",2000000.0
+2019 MG Hector Sharp 1.5 DCT Petrol [2019-2020],Rs. 10.35 Lakh,"46,000 km",Petrol,"Borivali (W), Mumbai",1035000.0
+2021 Hyundai Aura S 1.2 CNG,Rs. 6.25 Lakh,"33,000 km",CNG,"Borivali (W), Mumbai",625000.0
+2023 Toyota Fortuner 4X2 AT 2.8 Diesel,Rs. 39.95 Lakh,"39,500 km",Diesel,"Goregaon (W), Mumbai",3995000.0000000005
+2024 Maruti Suzuki Grand Vitara Alpha Plus Intelligent Hybrid e-CVT,Rs. 19.75 Lakh,"21,000 km",Hybrid (Electric + Petrol),"Goregaon (W), Mumbai",1975000.0
+2019 Maruti Suzuki Vitara Brezza ZDi AGS,Rs. 8.75 Lakh,"48,000 km",Diesel,"Goregaon (W), Mumbai",875000.0
+2022 Hyundai Alcazar Signature (O) 7 Seater 1.5 Diesel AT,Rs. 17.75 Lakh,"61,000 km",Diesel,"Borivali (W), Mumbai",1775000.0
+2023 Toyota Innova Hycross VX Hybrid (Electric + Petrol) Automatic (e-CVT) 7 STR,Rs. 27.75 Lakh,"14,000 km",Hybrid (Electric + Petrol),"Andheri (E), Mumbai",2775000.0
+2023 Tata Safari XZA,Rs. 16.5 Lakh,"70,000 km",Diesel,"Jogeswari (W), Mumbai",1650000.0
+2017 BMW 3 Series GT 320d Luxury Line,Rs. 18.85 Lakh,"68,000 km",Diesel,"Borivali (W), Mumbai",1885000.0000000002
+2023 Tata Safari Accomplished Plus 6 STR Dark Edition AT,Rs. 24.95 Lakh,"4,700 km",Diesel,"Goregaon (W), Mumbai",2495000.0
+2021 Jeep Compass Longitude (O) 1.4 Petrol AT,Rs. 16 Lakh,"31,990 km",Petrol,"Dadabhoy Road, Mumbai",1600000.0
+2017 Maruti Suzuki Ciaz Zeta 1.4 AT,Rs. 5.95 Lakh,"80,000 km",Petrol,"Borivali (W), Mumbai",595000.0
+2023 Skoda Slavia Style 1.5L TSI DSG,Rs. 15.45 Lakh,"22,900 km",Petrol,"Goregaon (W), Mumbai",1545000.0
+2022 Tata Nexon EV XZ Plus Dark Edition,Rs. 9.75 Lakh,"18,000 km",Electric,"Andheri (E), Mumbai",975000.0
+2018 Mahindra XUV500 W10,Rs. 9.65 Lakh,"49,000 km",Diesel,"Andheri (W), Mumbai",965000.0
+2019 Honda Civic ZX CVT Petrol [2019-2020],Rs. 12.9 Lakh,"19,000 km",Petrol,"Goregaon (W), Mumbai",1290000.0
+2017 Tata Tiago Revotron XZ,Rs. 3.95 Lakh,"15,000 km",Petrol,"Goregaon (W), Mumbai",395000.0
+2018 Maruti Suzuki Celerio X Zxi [2017-2019],Rs. 4.95 Lakh,"40,000 km",Petrol,"Kalina, Mumbai",495000.0
+2022 Toyota Innova Crysta VX 2.4 8 STR,Rs. 24.95 Lakh,"34,699 km",Diesel,"Malad(W), Mumbai",2495000.0
+2025 Mahindra XUV700 AX7 Luxury Pack 2WD Diesel 2.2L Turbo Automatic 7 STR,Rs. 27.25 Lakh,"2,157 km",Diesel,"Malad(W), Mumbai",2725000.0
+2025 Mahindra Thar Roxx AX7 L Diesel AT 4WD,Rs. 26.45 Lakh,"8,609 km",Diesel,"Malad(W), Mumbai",2645000.0
+2023 Kia Carnival Limousine Plus 7 STR,Rs. 38.5 Lakh,"37,736 km",Diesel,"Malad(W), Mumbai",3850000.0
+2019 Toyota Camry Hybrid,Rs. 27.5 Lakh,"43,089 km",Hybrid (Electric + Petrol),"Malad(W), Mumbai",2750000.0
+2021 Hyundai Venue SX Plus 1.0 Turbo DCT,Rs. 9.3 Lakh,"32,700 km",Petrol,"Mulund (W), Mumbai",930000.0000000001
+2016 Maruti Suzuki Baleno Alpha 1.2,Rs. 4.9 Lakh,"51,190 km",Petrol,"Mulund (W), Mumbai",490000.00000000006
+2020 Kia Sonet GTX Plus 1.0 DCT Dual Tone,Rs. 9.91 Lakh,"45,101 km",Petrol,"Mulund (W), Mumbai",991000.0
+2018 Hyundai Creta SX Plus 1.6 AT Petrol,Rs. 8.85 Lakh,"55,371 km",Petrol,"Mulund (W), Mumbai",885000.0
+2020 Kia Seltos HTK Plus AT 1.5 Diesel [2020-2021],Rs. 11.9 Lakh,"44,288 km",Diesel,"Mulund (W), Mumbai",1190000.0
+2016 Hyundai Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],Rs. 4.41 Lakh,"22,526 km",Petrol,"Mulund (W), Mumbai",441000.0
+2020 Toyota Innova Crysta 2.4 ZX AT 7 STR,Rs. 21.75 Lakh,"76,003 km",Diesel,"Mulund (W), Mumbai",2175000.0
+2017 Hyundai Elantra SX (O) 2.0 AT,Rs. 8.85 Lakh,"41,104 km",Petrol,"Mulund (W), Mumbai",885000.0
+2018 Hyundai Elite i20 Sportz 1.4 CRDi,Rs. 5.9 Lakh,"75,586 km",Diesel,"Mulund (W), Mumbai",590000.0
+2018 Maruti Suzuki Ignis Delta 1.2 AMT,Rs. 4.5 Lakh,"30,110 km",Petrol,"Mulund (W), Mumbai",450000.0
+2021 Tata Harrier XTA Plus Dark Edition,Rs. 14.55 Lakh,"53,620 km",Diesel,"Mulund (W), Mumbai",1455000.0
+2022 Tata Punch Creative Dual Tone AMT [2022-2023],Rs. 7.25 Lakh,"19,992 km",Petrol,"Mulund (W), Mumbai",725000.0
+2019 Jeep Compass Longitude (O) 2.0 Diesel [2017-2020],Rs. 11.99 Lakh,"46,190 km",Diesel,"Mulund (W), Mumbai",1199000.0
+2022 Tata Harrier XTA Plus,Rs. 15.95 Lakh,"31,653 km",Diesel,"Mulund (W), Mumbai",1595000.0
+2022 Hyundai Creta E 1.5 Petrol,Rs. 9.6 Lakh,"43,133 km",Petrol,"Malad(W), Mumbai",960000.0
+2017 Skoda Octavia 1.8 TSI Style Plus AT [2017],Rs. 7.99 Lakh,"66,126 km",Petrol,"Topiwala Center, Mumbai",799000.0
+2017 Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],Rs. 4.25 Lakh,"37,700 km",Petrol,"Mulund (W), Mumbai",425000.0
+2023 Honda City V Petrol MT [2023-2025],Rs. 9.95 Lakh,"23,138 km",Petrol,"Mulund (W), Mumbai",994999.9999999999
+2022 Honda City V Petrol,Rs. 9.5 Lakh,"33,607 km",Petrol,"Mulund (W), Mumbai",950000.0
+2023 Toyota Fortuner 4x2 2WD Diesel 2.8L Turbo Automatic,Rs. 39.75 Lakh,"40,407 km",Diesel,"Malad(W), Mumbai",3975000.0
+2020 Mahindra XUV500 W11 AT,Rs. 14.95 Lakh,"30,244 km",Diesel,"Malad(W), Mumbai",1495000.0
+2020 Hyundai Venue SX Plus 1.0 Turbo DCT,Rs. 8.4 Lakh,"36,696 km",Petrol,"Andheri (E), Mumbai",840000.0
+2017 Hyundai Creta SX Plus 1.6 AT Petrol,Rs. 7.45 Lakh,"59,200 km",Petrol,"Kalina, Mumbai",745000.0
+2018 Hyundai Tucson GL 2WD AT Petrol,Rs. 11.25 Lakh,"60,891 km",Petrol,"Santacruz(W), Mumbai",1125000.0
+2021 Mahindra XUV500 W7 [2018-2020],Rs. 9.99 Lakh,"86,599 km",Diesel,"Topiwala Center, Mumbai",999000.0
+2019 Jeep Compass Limited Plus Petrol AT [2018-2020],Rs. 10.99 Lakh,"70,222 km",Petrol,"Topiwala Center, Mumbai",1099000.0
+2021 Tata Harrier XZA,Rs. 15.49 Lakh,"34,896 km",Diesel,"Borivali (W), Mumbai",1549000.0
+2018 Skoda Octavia 1.8 TSI L&K,Rs. 12.99 Lakh,"45,090 km",Petrol,"Borivali (W), Mumbai",1299000.0
+2018 Hyundai Creta E Plus 1.6 Petrol,Rs. 6.85 Lakh,"8,76,550 km",Petrol,"Topiwala Center, Mumbai",685000.0
+2022 Kia Carnival Limousine Plus 7 STR,Rs. 31.5 Lakh,"52,931 km",Diesel,"Mulund (W), Mumbai",3150000.0
+2016 Toyota Etios Liva G,Rs. 4.2 Lakh,"39,446 km",Petrol,"Kalina, Mumbai",420000.0
+2017 Volkswagen Tiguan Highline TDI,Rs. 15.75 Lakh,"85,924 km",Diesel,"Kalina, Mumbai",1575000.0
+2022 Honda City VX Petrol,Rs. 10.5 Lakh,"39,206 km",Petrol,"Chembur, Mumbai",1050000.0
+2019 Maruti Suzuki Swift VXi AMT,Rs. 4.9 Lakh,"52,123 km",Petrol,"Mulund (W), Mumbai",490000.00000000006
+2018 Skoda Kodiaq Style 2.0 TDI 4x4 AT,Rs. 21.75 Lakh,"46,846 km",Diesel,"Dadabhoy Road, Mumbai",2175000.0
+2019 Hyundai Creta 1.6 SX Plus AT Petrol,Rs. 10.8 Lakh,"43,848 km",Petrol,"Borivali (W), Mumbai",1080000.0
+2022 MG Astor Savvy 1.5 CVT Ivory [2023-2024],Rs. 13.65 Lakh,"21,544 km",Petrol,"Borivali (W), Mumbai",1365000.0
+2020 Hyundai Elite i20 Sportz 1.2 IVT [2020-2023],Rs. 7.49 Lakh,"32,038 km",Petrol,"Borivali (W), Mumbai",749000.0
+2023 MG Astor Savvy 1.3 Turbo AT S Red [2021-2023],Rs. 13.75 Lakh,"32,703 km",Petrol,"Borivali (W), Mumbai",1375000.0
+2023 Hyundai Creta SX (O) 1.4 Turbo 7 DCT [2020-2022],Rs. 15.91 Lakh,"21,262 km",Petrol,"Borivali (W), Mumbai",1591000.0
+2022 BMW 3-Series 330i M Sport Edition,Rs. 39 Lakh,"29,130 km",Petrol,"Jogeswari (W), Mumbai",3900000.0
+2024 Maruti Suzuki Baleno Alpha AGS [2022-2023],Rs. 8.9 Lakh,"9,782 km",Petrol,"Malad(W), Mumbai",890000.0
+2024 Kia Seltos GTX Plus 1.5 Diesel AT,Rs. 19.75 Lakh,"20,700 km",Diesel,"Juhu, Mumbai",1975000.0
+2022 Volvo XC90 T8 Inscription,Rs. 67.5 Lakh,"21,958 km",Petrol,"Juhu, Mumbai",6750000.0
+2021 Kia Seltos GTX Plus AT 1.4 [2019-2020],Rs. 12.99 Lakh,"41,123 km",Petrol,"Andheri (W), Mumbai",1299000.0
+2018 Hyundai Creta SX Plus 1.6 AT Petrol,Rs. 7.99 Lakh,"80,437 km",Petrol,"Topiwala Center, Mumbai",799000.0
+2022 Kia Carnival Limousine Plus 7 STR,Rs. 33.99 Lakh,"37,194 km",Diesel,"Andheri (W), Mumbai",3399000.0
+2020 Toyota Fortuner 2.8 4x4 AT,Rs. 32.9 Lakh,"81,200 km",Diesel,"Mulund (W), Mumbai",3290000.0
+2020 Hyundai Tucson GLS 2WD AT Petrol,Rs. 15.95 Lakh,"27,781 km",Petrol,"Azad Nagar, Mumbai",1595000.0
+2022 MG Hector Sharp 1.5 Petrol CVT,Rs. 12.95 Lakh,"19,465 km",Petrol,"Azad Nagar, Mumbai",1295000.0
+2023 Skoda Slavia Style 1.0L TSI AT,Rs. 12.95 Lakh,"29,938 km",Petrol,"Andheri (E), Mumbai",1295000.0
+2019 Maruti Suzuki Celerio ZXi (O) AMT [2019-2020],Rs. 4.5 Lakh,"31,118 km",Petrol,"Vile Parle East, Mumbai",450000.0
+2023 Tata Safari XZA Plus,Rs. 17.91 Lakh,"30,030 km",Diesel,"Andheri (E), Mumbai",1791000.0
+2018 Honda WR-V VX MT Diesel,Rs. 6.9 Lakh,"16,117 km",Diesel,"Vile Parle East, Mumbai",690000.0
+2019 Toyota Corolla Altis VL AT Petrol,Rs. 11.75 Lakh,"46,782 km",Petrol,"Andheri (E), Mumbai",1175000.0
+2022 Renault Triber RXT [2019-2020],Rs. 4.99 Lakh,"16,385 km",Petrol,"Mulund (W), Mumbai",499000.0
+2019 Hyundai Venue SX 1.4 CRDi,Rs. 7.99 Lakh,"45,791 km",Diesel,"Mulund (W), Mumbai",799000.0
+2021 Maruti Suzuki Wagon R ZXi 1.2,Rs. 4.5 Lakh,"50,471 km",Petrol,"Mulund (W), Mumbai",450000.0
+2020 Kia Sonet HTK Plus 1.2 [2020-2021],Rs. 6.95 Lakh,"23,713 km",Petrol,"Mulund (W), Mumbai",695000.0
+2022 Kia Seltos GTX Plus 1.5 Diesel AT,Rs. 16.5 Lakh,"37,337 km",Diesel,"Andheri (E), Mumbai",1650000.0
+2018 Skoda Octavia 1.8 TSI L&K,Rs. 12.75 Lakh,"52,179 km",Petrol,"Andheri (E), Mumbai",1275000.0
+2022 Kia Seltos GTX Plus 1.4 DCT,Rs. 15.45 Lakh,"31,257 km",Petrol,"Andheri (E), Mumbai",1545000.0
+2017 Hyundai Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],Rs. 4 Lakh,"50,492 km",Petrol,"Kalina, Mumbai",400000.0
+2018 Skoda Octavia 1.8 TSI L&K,Rs. 12.75 Lakh,"61,323 km",Petrol,"Andheri (E), Mumbai",1275000.0
+2018 Hyundai Creta SX 1.6 AT Petrol,Rs. 9.45 Lakh,"42,399 km",Petrol,"Andheri (E), Mumbai",944999.9999999999
+2022 Jeep Compass Model S (O) Diesel 4x4 AT,Rs. 20.5 Lakh,"42,831 km",Diesel,"Andheri (E), Mumbai",2050000.0
+2018 Maruti Suzuki Vitara Brezza VDi,Rs. 7.35 Lakh,"59,726 km",Diesel,"Chembur, Mumbai",735000.0
+2021 Kia Sonet GTX Plus 1.5 AT [2020-2021],Rs. 11.5 Lakh,"23,148 km",Diesel,"Juhu, Mumbai",1150000.0
+2017 Tata Tiago Revotorq XE [2016-2019],Rs. 2.99 Lakh,"63,100 km",Diesel,"Topiwala Center, Mumbai",299000.0
+2017 Jeep Compass Limited 1.4 Petrol AT [2017-2020],Rs. 8.5 Lakh,"26,423 km",Petrol,"Topiwala Center, Mumbai",850000.0
+2020 Kia Carnival Limousine Plus 7 STR,Rs. 24.99 Lakh,"72,295 km",Diesel,"Topiwala Center, Mumbai",2499000.0
+2022 Kia Seltos HTX 1.5 IVT,Rs. 13.29 Lakh,"38,982 km",Petrol,"Mulund (W), Mumbai",1329000.0
+2023 Honda Amaze 1.2 S i-VTEC,Rs. 6.39 Lakh,"24,602 km",Petrol,"Mulund (W), Mumbai",639000.0
+2018 Hyundai Creta 1.6 SX Plus AT Petrol,Rs. 8.49 Lakh,"45,870 km",Petrol,"Mulund (W), Mumbai",849000.0
+2019 Hyundai Creta SX 1.6 AT Petrol,Rs. 9.49 Lakh,"50,458 km",Petrol,"Mulund (W), Mumbai",949000.0
+2022 Honda City VX CVT Petrol,Rs. 11.45 Lakh,"28,181 km",Petrol,"Mulund (W), Mumbai",1145000.0
+2017 Hyundai Elantra 2.0 SX AT,Rs. 8.25 Lakh,"58,141 km",Petrol,"Mulund (W), Mumbai",825000.0
+2023 Renault Kiger RXT (O) Turbo CVT,Rs. 7.75 Lakh,"16,009 km",Petrol,"Mulund (W), Mumbai",775000.0
+2018 Maruti Suzuki Ciaz Zeta 1.4 AT,Rs. 6.65 Lakh,"50,805 km",Petrol,"Mulund (W), Mumbai",665000.0
+2023 Tata Altroz XZA Plus Petrol [2022-2023],Rs. 7.95 Lakh,"7,604 km",Petrol,"Mulund (W), Mumbai",795000.0
+2020 Hyundai Venue S 1.2 Petrol,Rs. 6.75 Lakh,"39,879 km",Petrol,"Mulund (W), Mumbai",675000.0
+2020 Honda City V CVT Petrol [2017-2019],Rs. 8.85 Lakh,"59,274 km",Petrol,"Mulund (W), Mumbai",885000.0
+2019 Volkswagen Vento Highline Petrol,Rs. 6.45 Lakh,"25,496 km",Petrol,"Mulund (W), Mumbai",645000.0
+2021 Hyundai Elite i20 Sportz 1.2 IVT [2020-2023],Rs. 7 Lakh,"39,801 km",Petrol,"Mulund (W), Mumbai",700000.0
+2019 Mahindra XUV300 1.2 W4 [2019-2019],Rs. 5.99 Lakh,"86,798 km",Petrol,"Topiwala Center, Mumbai",599000.0
+2014 Maruti Suzuki Celerio VXi CNG [2019-2020],Rs. 3.25 Lakh,"39,140 km",CNG,"Mulund (W), Mumbai",325000.0
+2021 Mahindra XUV500 W7 [2018-2020],Rs. 10.25 Lakh,"89,587 km",Diesel,"Topiwala Center, Mumbai",1025000.0
+2019 MG Hector Smart 1.5 DCT Petrol [2019-2020],Rs. 10.5 Lakh,"54,929 km",Petrol,"Mulund (W), Mumbai",1050000.0
+2023 Skoda Kodiaq Sportline [2022],Rs. 29.75 Lakh,"41,573 km",Petrol,"Goregaon (W), Mumbai",2975000.0
+2023 Hyundai Creta SX (O) 1.5 Petrol CVT,Rs. 16.75 Lakh,"16,139 km",Petrol,"Goregaon (W), Mumbai",1675000.0
+2021 Skoda Octavia L&K 2.0,Rs. 22.75 Lakh,"18,501 km",Petrol,"Goregaon (W), Mumbai",2275000.0
+2017 Maruti Suzuki DZire ZDi,Rs. 6.49 Lakh,"44,302 km",Diesel,"Mulund (W), Mumbai",649000.0
+2024 Volkswagen Virtus Topline 1.0 TSI AT,Rs. 12.75 Lakh,"30,343 km",Petrol,"Mulund (W), Mumbai",1275000.0
+2021 Tata Harrier XZA Plus Dual Tone,Rs. 13.5 Lakh,"64,387 km",Diesel,"Mulund (W), Mumbai",1350000.0
+2015 Volkswagen Polo GT TSI,Rs. 5.45 Lakh,"65,183 km",Petrol,"Andheri (W), Mumbai",545000.0
+2017 Honda Jazz VX Petrol,Rs. 4.9 Lakh,"33,997 km",Petrol,"Mulund (W), Mumbai",490000.00000000006
+2016 Volkswagen Polo GT TSI,Rs. 5.75 Lakh,"48,106 km",Petrol,"Goregaon (W), Mumbai",575000.0
+2019 Honda City V CVT Petrol [2017-2019],Rs. 7.45 Lakh,"19,274 km",Petrol,"Andheri (W), Mumbai",745000.0
+2022 Skoda Kushaq Style 1.0L TSI AT,Rs. 12.75 Lakh,"32,619 km",Petrol,"Goregaon (W), Mumbai",1275000.0
+2023 Hyundai Creta SX (O) 1.5 Petrol CVT,Rs. 17.25 Lakh,"20,535 km",Petrol,"Goregaon (W), Mumbai",1725000.0
+2019 Audi A6 35 TDI Matrix,Rs. 23.95 Lakh,"35,720 km",Diesel,"Goregaon (W), Mumbai",2395000.0
+2024 Hyundai Elite i20 Asta 1.2 MT [2023-2025],Rs. 7.95 Lakh,"20,612 km",Petrol,"Mulund (W), Mumbai",795000.0
+2023 Kia Sonet GTX Plus 1.5 Diesel iMT,Rs. 11.95 Lakh,"30,866 km",Diesel,"Goregaon (W), Mumbai",1195000.0
+2019 Hyundai Venue SX 1.4 CRDi,Rs. 8.99 Lakh,"34,499 km",Diesel,"Borivali (W), Mumbai",899000.0
+2023 Maruti Suzuki Ciaz Alpha Hybrid 1.5 AT [2018-2020],Rs. 9.21 Lakh,"36,277 km",Petrol,"Mulund (W), Mumbai",921000.0000000001
+2020 Skoda Rapid Active 1.0 TSI AT,Rs. 6.5 Lakh,"42,668 km",Petrol,"Topiwala Center, Mumbai",650000.0
+2023 Tata Nexon XZA Plus (Premium) Jet,Rs. 9.49 Lakh,"24,435 km",Petrol,"Mulund (W), Mumbai",949000.0
+2021 Hyundai Venue SX Plus 1.0 Turbo DCT,Rs. 8.75 Lakh,"34,369 km",Petrol,"Mulund (W), Mumbai",875000.0
+2021 Toyota Glanza V Petrol Manual,Rs. 5.95 Lakh,"48,434 km",Petrol,"Mulund (W), Mumbai",595000.0
+2015 Maruti Suzuki Ertiga Vxi CNG,Rs. 5.99 Lakh,"56,921 km",CNG,"Mulund (W), Mumbai",599000.0
+2018 Hyundai Elite i20 Asta 1.2 AT,Rs. 5.75 Lakh,"39,478 km",Petrol,"Mulund (W), Mumbai",575000.0
+2022 Tata Altroz XZA Plus Petrol [2022-2023],Rs. 6.75 Lakh,"17,222 km",Petrol,"Mulund (W), Mumbai",675000.0
+2016 Honda BR-V V Petrol,Rs. 5.49 Lakh,"52,649 km",Petrol,"Mulund (W), Mumbai",549000.0
+2018 Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],Rs. 16.95 Lakh,"60,832 km",Diesel,"Mulund (W), Mumbai",1695000.0
+2016 Honda City V,Rs. 4.6 Lakh,"55,102 km",Petrol,"Mulund (W), Mumbai",459999.99999999994
+2022 Skoda Slavia Ambition 1.0L TSI MT,Rs. 10.75 Lakh,"27,719 km",Petrol,"Dadabhoy Road, Mumbai",1075000.0
+2017 Hyundai Elite i20 Asta 1.2 (O) [2016],Rs. 5.1 Lakh,"32,211 km",Petrol,"Mulund (W), Mumbai",509999.99999999994
+2021 Hyundai Elite i20 Sportz 1.2 MT [2020-2023],Rs. 5.95 Lakh,"57,216 km",Petrol,"Mulund (W), Mumbai",595000.0
+2021 Mahindra XUV300 W8 (O) 1.5 Diesel AMT,Rs. 8.49 Lakh,"77,985 km",Diesel,"Borivali (W), Mumbai",849000.0
+2018 Maruti Suzuki Celerio ZXi (O) AMT [2019-2020],Rs. 4.5 Lakh,"25,400 km",Petrol,"Mulund (W), Mumbai",450000.0
+2019 Maruti Suzuki Celerio X Zxi AMT [2017-2019],Rs. 4.7 Lakh,"10,924 km",Petrol,"Mulund (W), Mumbai",470000.0
+2015 BMW 5-Series 520d Luxury Line,Rs. 19.25 Lakh,"50,200 km",Diesel,"Malad(W), Mumbai",1925000.0
+2014 Mahindra XUV500 W8,Rs. 5.49 Lakh,"39,600 km",Diesel,"Malad(W), Mumbai",549000.0
+2011 Hyundai i10 Magna 1.2 Kappa2,Rs. 2.55 Lakh,"30,700 km",Petrol,"Malad(W), Mumbai",254999.99999999997
+2025 Mercedes-Benz S-Class S 350D [2018-2020],Rs. 1.75 Crore,"1,663 km",Diesel,"Malad(W), Mumbai",17500000.0
+2015 Volkswagen Vento TSI,Rs. 5.25 Lakh,"49,000 km",Petrol,"Malad(W), Mumbai",525000.0
+2015 Maruti Suzuki Wagon R VXI,Rs. 3.45 Lakh,"47,300 km",Petrol,"Malad(W), Mumbai",345000.0
+2017 Maruti Suzuki Wagon R VXI+,Rs. 4 Lakh,"32,500 km",Petrol,"Malad(W), Mumbai",400000.0
+2021 Maruti Suzuki Baleno Delta 1.2,Rs. 6.75 Lakh,"45,900 km",Petrol,"Malad(W), Mumbai",675000.0
+2018 Toyota Corolla Altis G AT Petrol,Rs. 9 Lakh,"44,200 km",Petrol,"Malad(W), Mumbai",900000.0
+2022 Kia Carnival Limousine 7 STR,Rs. 35 Lakh,"20,400 km",Diesel,"Malad(W), Mumbai",3500000.0
+2023 Land Rover Range Rover Velar HSE Dynamic 2.0 Petrol,Rs. 79.9 Lakh,"20,800 km",Petrol,"Malad(W), Mumbai",7990000.000000001
+2024 Hyundai Creta SX (O) 1.5 Turbo DCT Dual Tone,Rs. 18.75 Lakh,"13,800 km",Petrol,"Malad(W), Mumbai",1875000.0
+2023 Tata Nexon Fearless Plus (S) 1.5 Diesel 6AMT Dual Tone [2023-2025],Rs. 13 Lakh,"19,580 km",Diesel,"Malad(W), Mumbai",1300000.0
+2019 Mercedes-Benz V-Class Expression ELWB [2019-2020],Rs. 65 Lakh,"24,390 km",Diesel,"Malad(W), Mumbai",6500000.0
+2015 Hyundai Elite i20 Asta 1.2,Rs. 4.75 Lakh,"52,000 km",Petrol,"Malad(W), Mumbai",475000.0
+2015 Mercedes-Benz E-Class E200 [2024-2025],Rs. 13.9 Lakh,"65,600 km",Petrol,"Malad(W), Mumbai",1390000.0
+2022 Hyundai Venue SX Plus 1.0 Turbo DCT,Rs. 10.1 Lakh,"23,300 km",Petrol,"Malad(W), Mumbai",1010000.0
+2022 Tata Nexon EV XZ Plus,Rs. 8.15 Lakh,"59,000 km",Electric,"J. B. Nagar, Mumbai",815000.0
+2012 BMW 3-Series 320d,Rs. 5 Lakh,"94,500 km",Diesel,"Malad(W), Mumbai",500000.0
+2021 Land Rover Range Rover Velar S R-Dynamic 2.0 Petrol,Rs. 55 Lakh,"31,000 km",Petrol,"Malad(W), Mumbai",5500000.0
+2025 Volvo XC60 B5 Ultimate,Rs. 67.95 Lakh,"2,700 km",Petrol,"Malad(W), Mumbai",6795000.0
+2021 Land Rover Range Rover Velar 2.0 R-Dynamic S Petrol 250 [2017-2020],Rs. 63 Lakh,"18,800 km",Petrol,"Malad(W), Mumbai",6300000.0
+2019 Mercedes-Benz CLA 200 CDI Sport,Rs. 19.5 Lakh,"32,000 km",Diesel,"J. B. Nagar, Mumbai",1950000.0
+2016 Toyota Camry 2.5L AT,Rs. 9 Lakh,"94,600 km",Petrol,"Malad(W), Mumbai",900000.0
+2018 Hyundai Grand i10 Sports Edition 1.2L Kappa VTVT,Rs. 4.85 Lakh,"40,113 km",Petrol,"Topiwala Center, Mumbai",484999.99999999994
+2019 Mahindra Marazzo M4 7 STR,Rs. 7.25 Lakh,"70,034 km",Diesel,"Mulund (W), Mumbai",725000.0
+2014 Maruti Suzuki Swift DZire VDI,Rs. 4.85 Lakh,"1,26,614 km",Diesel,"Mulund (W), Mumbai",484999.99999999994
+2017 Skoda Superb L&K TSI AT,Rs. 12.7 Lakh,"60,315 km",Petrol,"Mulund (W), Mumbai",1270000.0
+2018 Jeep Compass Limited 1.4 Petrol AT [2017-2020],Rs. 8.95 Lakh,"42,296 km",Petrol,"Mulund (W), Mumbai",894999.9999999999
+2018 Toyota Innova Crysta 2.4 VX 8 STR [2016-2020],Rs. 16.9 Lakh,"1,11,099 km",Diesel,"Mulund (W), Mumbai",1689999.9999999998
+2012 BMW 5-Series 520d Sedan,Rs. 10.5 Lakh,"68,572 km",Diesel,"Mulund (W), Mumbai",1050000.0
+2016 Hyundai Creta 1.6 SX Plus AT,Rs. 7.95 Lakh,"89,761 km",Diesel,"Mulund (W), Mumbai",795000.0
+2020 Tata Tiago XZA Plus [2020-2023],Rs. 4.95 Lakh,"55,243 km",Petrol,"Mulund (W), Mumbai",495000.0
+2019 Tata Tigor Revotron XTA,Rs. 4.85 Lakh,"45,728 km",Petrol,"Mulund (W), Mumbai",484999.99999999994
+2022 Mahindra Thar LX Hard Top Diesel AT 4WD [2023],Rs. 13.85 Lakh,"54,793 km",Diesel,"Mulund (W), Mumbai",1385000.0
+2022 Tata Safari XZA Plus,Rs. 16.8 Lakh,"33,246 km",Diesel,"Mulund (W), Mumbai",1680000.0
+2020 Maruti Suzuki XL6 Alpha AT Petrol,Rs. 9.95 Lakh,"69,620 km",Petrol,"Mulund (W), Mumbai",994999.9999999999
+2022 Hyundai Venue SX (O) 1.0 Turbo DCT,Rs. 9.65 Lakh,"17,000 km",Petrol,"J. B. Nagar, Mumbai",965000.0
+2018 Mercedes-Benz GLC 300 Progressive,Rs. 27.9 Lakh,"50,000 km",Petrol,"J. B. Nagar, Mumbai",2790000.0
+Name,Price,Kilometers,Fuel,Location,Price_Numeric
+2022 Skoda Slavia Style 1.0L TSI AT,Rs. 12.75 Lakh,"48,707 km",Petrol,"Fakhri Hills, Pune",1275000.0
+2018 Hyundai Creta SX 1.6 Petrol,Rs. 8.25 Lakh,"57,279 km",Petrol,"Wanowrie, Pune",825000.0
+2021 Tata Nexon XZ,Rs. 6.95 Lakh,"48,874 km",Petrol,"Wanowrie, Pune",695000.0
+2022 Mahindra Thar LX Hard Top Diesel MT,Rs. 15 Lakh,"29,469 km",Diesel,"Armament Colony, Pune",1500000.0
+2018 Hyundai Creta SX 1.6 Petrol,Rs. 8.5 Lakh,"26,432 km",Petrol,"Wanowrie, Pune",850000.0
+2021 Honda Jazz ZX CVT,Rs. 7.99 Lakh,"29,487 km",Petrol,"Kondhwa Budruk, Pune",799000.0
+2021 Hyundai Creta SX 1.5 Petrol Executive,Rs. 11.95 Lakh,"27,125 km",Petrol,"Wanowrie, Pune",1195000.0
+2022 Skoda Slavia Style 1.5L TSI DSG,Rs. 13.95 Lakh,"38,969 km",Petrol,"Rambaug Colony, Pune",1395000.0
+2021 Maruti Suzuki DZire VXi,Rs. 5.65 Lakh,"17,622 km",Petrol,"Rambaug Colony, Pune",565000.0
+2022 Tata Harrier XTA Plus,Rs. 16.11 Lakh,"39,900 km",Diesel,"Fakhri Hills, Pune",1611000.0
+2022 Tata Altroz XM Plus (S),Rs. 6 Lakh,"68,669 km",Petrol,"Pune Sholapur Road, Pune",600000.0
+2019 Honda WR-V VX MT Petrol,Rs. 6.8 Lakh,"61,004 km",Petrol,"Armament Colony, Pune",680000.0
+2020 Kia Seltos HTX IVT 1.5 [2019-2020],Rs. 11.95 Lakh,"39,165 km",Petrol,"Wanowrie, Pune",1195000.0
+2022 Hyundai Creta S Plus 1.5 Petrol Knight,Rs. 13.2 Lakh,"37,190 km",Petrol,"Armament Colony, Pune",1320000.0
+2021 Maruti Suzuki DZire ZXi AGS,Rs. 6.75 Lakh,"73,147 km",Petrol,"Armament Colony, Pune",675000.0
+2020 Tata Harrier XZA Plus,Rs. 15.75 Lakh,"78,814 km",Diesel,"Armament Colony, Pune",1575000.0
+2020 Kia Seltos HTK Plus 1.5 [2019-2020],Rs. 10.2 Lakh,"36,962 km",Petrol,"Armament Colony, Pune",1019999.9999999999
+2019 Hyundai Verna EX 1.4 VTVT,Rs. 8.11 Lakh,"22,930 km",Petrol,"Armament Colony, Pune",811000.0
+2014 Honda City VX CVT,Rs. 5.5 Lakh,"47,570 km",Petrol,"Wanowrie, Pune",550000.0
+2024 Kia Seltos HTK Plus 1.5 Diesel AT,Rs. 18.5 Lakh,"19,000 km",Diesel,"Mundhwa, Pune",1850000.0
+2020 Hyundai Creta S 1.5 Petrol [2020-2022],Rs. 10.25 Lakh,"22,946 km",Petrol,"Pune Sholapur Road, Pune",1025000.0
+2018 Hyundai Verna SX (O)1.6 VTVT,Rs. 8.3 Lakh,"79,372 km",Petrol,"Wakad, Pune",830000.0000000001
+2023 Tata Punch Adventure AMT [2021-2023],Rs. 6.95 Lakh,"29,852 km",Petrol,"Wakad, Pune",695000.0
+2019 Ford Ecosport Titanium 1.5L TDCi,Rs. 8 Lakh,"80,000 km",Diesel,"Wakad, Pune",800000.0
+2017 Maruti Suzuki Baleno Delta 1.2 AT,Rs. 5.25 Lakh,"23,247 km",Petrol,"Armament Colony, Pune",525000.0
+2021 Mercedes-Benz S-Class S 350 CDI Connoisseurs Edition,Rs. 1.23 Crore,"30,000 km",Diesel,"Wakad, Pune",12300000.0
+2024 Mercedes-Benz GLC 220d 4MATIC,Rs. 75 Lakh,"12,500 km",Diesel,"Wakad, Pune",7500000.0
+2024 Mercedes-Benz GLE 300d 4MATIC LWB [2020-2023],Rs. 97 Lakh,"9,000 km",Diesel,"Wakad, Pune",9700000.0
+2018 Mercedes-Benz CLA 200 Petrol Sport,Rs. 22.5 Lakh,"13,500 km",Petrol,"Senapati Bapat Road, Pune",2250000.0
+2023 Porsche Macan Base [2021-2023],Rs. 89 Lakh,"16,500 km",Petrol,"Senapati Bapat Road, Pune",8900000.0
+2018 Mercedes-Benz CLA 200 Petrol Sport,Rs. 21.5 Lakh,"63,000 km",Petrol,"Wakad, Pune",2150000.0
+2019 Mercedes-Benz CLA 200 Petrol Sport,Rs. 25 Lakh,"37,500 km",Petrol,"Wakad, Pune",2500000.0
+2022 Mercedes-Benz S-Class S 350d,Rs. 1.23 Crore,"30,000 km",Diesel,"Wakad, Pune",12300000.0
+2025 Mercedes-Benz GLC 220d 4MATIC Progressive,Rs. 75 Lakh,"12,500 km",Diesel,"Wakad, Pune",7500000.0
+2018 Mercedes-Benz GLA 200 d Sport,Rs. 23 Lakh,"60,000 km",Diesel,"Wakad, Pune",2300000.0
+2025 Lexus LM 350h 4 STR Ultra Luxury,Rs. 2.99 Crore,"1,500 km",Hybrid (Electric + Petrol),"Senapati Bapat Road, Pune",29900000.000000004
+2020 Mercedes-Benz S-Class Maybach S 560,Rs. 1.05 Crore,"70,000 km",Petrol,"Senapati Bapat Road, Pune",10500000.0
+2017 Mercedes-Benz GLA 200d Urban Edition,Rs. 23 Lakh,"60,000 km",Diesel,"Wakad, Pune",2300000.0
+2022 Mercedes-Benz S-Class S 350d,Rs. 1.3 Crore,"31,000 km",Diesel,"Wakad, Pune",13000000.0
+2017 Toyota Innova Crysta 2.4 VX 7 STR [2016-2020],Rs. 16.35 Lakh,"52,907 km",Diesel,"Wanowrie, Pune",1635000.0000000002
+2018 Honda BR-V S Petrol,Rs. 6.25 Lakh,"52,774 km",Petrol,"Wanowrie, Pune",625000.0
+2017 Ford Ecosport Titanium 1.5L Ti-VCT,Rs. 4.99 Lakh,"41,446 km",Petrol,"Armament Colony, Pune",499000.0
+2017 Toyota Innova Crysta 2.4 Z 7 STR,Rs. 17.5 Lakh,"1,07,486 km",Diesel,"Wanowrie, Pune",1750000.0
+2015 Hyundai Elite i20 Sportz 1.2 (O),Rs. 4.75 Lakh,"34,255 km",Petrol,"Wanowrie, Pune",475000.0
+2015 Skoda Octavia Ambition 2.0 TDI AT,Rs. 8.5 Lakh,"82,334 km",Diesel,"Mundhwa, Pune",850000.0
+2015 Hyundai Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],Rs. 4.55 Lakh,"24,252 km",Petrol,"Rambaug Colony, Pune",455000.0
+2023 Mahindra Thar LX Hard Top Diesel AT 4WD [2023],Rs. 15.37 Lakh,"16,725 km",Diesel,"Pune Sholapur Road, Pune",1537000.0
+2019 Maruti Suzuki Alto 800 Vxi,Rs. 3.33 Lakh,"26,757 km",Petrol,"Pune Sholapur Road, Pune",333000.0
+2023 BYD Atto 3 Superior [2024-2025],Rs. 28 Lakh,"38,000 km",Electric,"Mundhwa, Pune",2800000.0
+2022 Mercedes-Benz GLC 220d 4MATIC Progressive,Rs. 48 Lakh,"44,000 km",Diesel,"Mundhwa, Pune",4800000.0
+2019 Tata Nexon XZ Plus Diesel,Rs. 7.48 Lakh,"52,350 km",Diesel,"Pune Sholapur Road, Pune",748000.0
+2015 Maruti Suzuki Alto 800 Lxi (Airbag) [2012-2015],Rs. 2.53 Lakh,"42,168 km",Petrol,"Pune Sholapur Road, Pune",252999.99999999997
+2021 Kia Carnival Limousine 7 STR,Rs. 26 Lakh,"1,25,000 km",Diesel,"Mundhwa, Pune",2600000.0
+2021 Mahindra XUV500 W5 [2018-2020],Rs. 10.22 Lakh,"53,762 km",Diesel,"Pune Sholapur Road, Pune",1022000.0000000001
+2018 BMW 5-Series 530d M Sport [2017-2019],Rs. 38 Lakh,"51,000 km",Diesel,"Balewadi, Pune",3800000.0
+2017 Hyundai Elite i20 Asta 1.2 (O) [2016],Rs. 5.75 Lakh,"55,352 km",Petrol,"Pune Sholapur Road, Pune",575000.0
+2018 Maruti Suzuki Ciaz Delta 1.4 MT,Rs. 5.92 Lakh,"31,095 km",Petrol,"Pune Sholapur Road, Pune",592000.0
+2022 Maruti Suzuki DZire ZXi Plus,Rs. 7.22 Lakh,"29,656 km",Petrol,"Wagholi, Pune",722000.0
+2018 Toyota Prado VX L,Rs. 84 Lakh,"87,500 km",Diesel,"Senapati Bapat Road, Pune",8400000.0
+2014 Ford Ecosport Titanium 1.0 Ecoboost,Rs. 4.59 Lakh,"47,373 km",Petrol,"Wagholi, Pune",459000.0
+2018 Mercedes-Benz GLA 200 d Sport,Rs. 25 Lakh,"25,000 km",Diesel,"Mundhwa, Pune",2500000.0
+2018 Mercedes-Benz GLS 350 d,Rs. 43 Lakh,"1,02,000 km",Diesel,"Mundhwa, Pune",4300000.0
+2014 Maruti Suzuki Ertiga ZXi,Rs. 6.25 Lakh,"70,500 km",Petrol,"Wakad, Pune",625000.0
+2021 Hyundai Grand i10 NIOS Sportz AMT 1.2 Kappa VTVT,Rs. 6.5 Lakh,"18,265 km",Petrol,"Wakad, Pune",650000.0
+2022 Kia Seltos GTX Plus 1.5 Diesel AT,Rs. 14.9 Lakh,"48,750 km",Diesel,"Mundhwa, Pune",1490000.0
+2021 Tata Nexon XMA,Rs. 7.08 Lakh,"61,919 km",Petrol,"Wagholi, Pune",708000.0
+2021 Tata Nexon XZA Plus (O) Diesel,Rs. 9.94 Lakh,"47,616 km",Diesel,"Pune Sholapur Road, Pune",994000.0
+2021 Hyundai Venue SX 1.0 Turbo,Rs. 7.43 Lakh,"44,059 km",Petrol,"Lohegaon, Pune",743000.0
+2017 Volkswagen Tiguan Highline TDI,Rs. 14.75 Lakh,"98,000 km",Diesel,"Mundhwa, Pune",1475000.0
+2015 BMW 3 Series GT 320d Luxury Line [2014-2016],Rs. 11.99 Lakh,"87,000 km",Diesel,"Mundhwa, Pune",1199000.0
+2023 Kia Seltos GTX Plus 1.5 Turbo Petrol DCT [2023-2024],Rs. 17.8 Lakh,"24,900 km",Petrol,"Pune Sholapur Road, Pune",1780000.0
+2023 Renault Triber RXT,Rs. 5.78 Lakh,"30,719 km",Petrol,"Wagholi, Pune",578000.0
+2020 Volkswagen Polo GT,Rs. 7.89 Lakh,"52,098 km",Petrol,"Hinjewadi, Pune",789000.0
+2017 Maruti Suzuki Ciaz Alpha 1.4 AT,Rs. 6.08 Lakh,"72,392 km",Petrol,"Hinjewadi, Pune",608000.0
+2021 Hyundai Venue SX (O) 1.0 Turbo iMT,Rs. 8.46 Lakh,"45,414 km",Petrol,"Hinjewadi, Pune",846000.0000000001
+2023 Hyundai Venue S 1.2 Petrol [2023],Rs. 7.6 Lakh,"12,933 km",Petrol,"Hinjewadi, Pune",760000.0
+2020 Tata Nexon XZA Plus (S) [2022-2023],Rs. 8.42 Lakh,"23,876 km",Petrol,"Hinjewadi, Pune",842000.0
+2022 Kia Sonet HTX 1.0 iMT [2020-2021],Rs. 9.52 Lakh,"5,301 km",Petrol,"Hinjewadi, Pune",952000.0
+2017 Hyundai Creta SX Plus 1.6  Petrol,Rs. 7.9 Lakh,"60,199 km",Petrol,"Hinjewadi, Pune",790000.0
+2022 Tata Nexon XZA Plus (O),Rs. 9.23 Lakh,"27,776 km",Petrol,"Hinjewadi, Pune",923000.0
+2022 Tata Harrier XZA Plus Dual Tone,Rs. 16.58 Lakh,"47,199 km",Diesel,"Hinjewadi, Pune",1657999.9999999998
+2017 Hyundai Creta 1.6 SX Plus AT Petrol,Rs. 9.32 Lakh,"60,820 km",Petrol,"Hinjewadi, Pune",932000.0
+2021 Tata Nexon XZA Plus (S) Dual tone,Rs. 8.81 Lakh,"50,387 km",Petrol,"Hinjewadi, Pune",881000.0
+2020 Maruti Suzuki Alto 800 Lxi (Airbag) [2012-2015],Rs. 3.27 Lakh,"35,964 km",Petrol,"Hinjewadi, Pune",327000.0
+2018 Ford Ecosport Titanium + 1.5L Ti-VCT AT,Rs. 7.48 Lakh,"30,384 km",Petrol,"Hinjewadi, Pune",748000.0
+2023 Hyundai Verna SX (O) 1.5 Turbo Petrol MT,Rs. 13.95 Lakh,"14,619 km",Petrol,"Hinjewadi, Pune",1395000.0
+2021 Jeep Compass 80 Anniversary 1.4 Petrol DCT,Rs. 18.08 Lakh,"26,776 km",Petrol,"Hinjewadi, Pune",1807999.9999999998
+2022 Tata Harrier Kaziranga XZA Plus,Rs. 16.58 Lakh,"48,663 km",Diesel,"Hinjewadi, Pune",1657999.9999999998
+2015 Volkswagen Polo Highline1.5L (D),Rs. 4.73 Lakh,"70,064 km",Diesel,"Hinjewadi, Pune",473000.00000000006
+2015 Maruti Suzuki Swift VXi,Rs. 4.35 Lakh,"34,770 km",Petrol,"Hinjewadi, Pune",434999.99999999994
+2021 Hyundai Santro Sportz,Rs. 4.21 Lakh,"74,954 km",Petrol,"Hinjewadi, Pune",421000.0
+2023 Hyundai Venue SX 1.2 Petrol,Rs. 9.32 Lakh,"19,380 km",Petrol,"Hinjewadi, Pune",932000.0
+2015 Maruti Suzuki Alto 800 Lxi (Airbag) [2012-2015],Rs. 2.43 Lakh,"43,990 km",Petrol,"Hinjewadi, Pune",243000.00000000003
+2019 MG Hector Sharp 1.5 DCT Petrol [2019-2020],Rs. 12.42 Lakh,"23,227 km",Petrol,"Hinjewadi, Pune",1242000.0
+2021 Tata Nexon XM,Rs. 6.05 Lakh,"65,898 km",Petrol,"Lohegaon, Pune",605000.0
+2022 Tata Punch Creative AMT [2021-2023],Rs. 6.49 Lakh,"30,128 km",Petrol,"Lohegaon, Pune",649000.0
+2022 Tata Nexon XM (S) [2020-2023],Rs. 7.25 Lakh,"14,210 km",Petrol,"Lohegaon, Pune",725000.0
+2015 Maruti Suzuki Alto 800 Lxi (Airbag) [2012-2015],Rs. 2.45 Lakh,"42,446 km",Petrol,"Hinjewadi, Pune",245000.00000000003
+2018 Maruti Suzuki DZire VXi AMT,Rs. 5.68 Lakh,"59,782 km",Petrol,"Hinjewadi, Pune",568000.0
+2022 Skoda Slavia Style 1.0L TSI AT,Rs. 13.17 Lakh,"17,156 km",Petrol,"Hinjewadi, Pune",1317000.0
+2023 Skoda Slavia Ambition 1.0L TSI AT,Rs. 13 Lakh,"16,000 km",Petrol,"Mundhwa, Pune",1300000.0
+2020 Tata Nexon XZA Plus [2020-2023],Rs. 7 Lakh,"74,876 km",Petrol,"Lohegaon, Pune",700000.0
+2025 Skoda Slavia Monte Carlo 1.5L TSI DSG,Rs. 17 Lakh,"1,500 km",Petrol,"Mundhwa, Pune",1700000.0
+2016 Hyundai Creta SX Plus 1.6  Petrol,Rs. 7.11 Lakh,"58,085 km",Petrol,"Hinjewadi, Pune",711000.0
+2020 Maruti Suzuki Alto 800 Vxi,Rs. 3.32 Lakh,"13,939 km",Petrol,"Wagholi, Pune",332000.0
+2021 Hyundai Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,Rs. 5.66 Lakh,"71,409 km",CNG,"Hinjewadi, Pune",566000.0
+2021 Kia Sonet HTX 1.0 iMT [2020-2021],Rs. 8.15 Lakh,"25,689 km",Petrol,"Hinjewadi, Pune",815000.0
+2022 Skoda Slavia Style 1.0L TSI MT,Rs. 9.96 Lakh,"74,920 km",Petrol,"Hinjewadi, Pune",996000.0000000001
+2016 Maruti Suzuki Wagon R LXi 1.0 CNG [2019-2020],Rs. 4.07 Lakh,"10,122 km",CNG,"Pune Sholapur Road, Pune",407000.0
+2023 Hyundai Grand i10 NIOS Sportz 1.2 Kappa CNG,Rs. 6.45 Lakh,"36,303 km",CNG,"Pune Sholapur Road, Pune",645000.0
+2021 Hyundai Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,Rs. 5.45 Lakh,"77,411 km",CNG,"Lohegaon, Pune",545000.0
+2022 Hyundai Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,Rs. 6.2 Lakh,"35,933 km",CNG,"Pune Sholapur Road, Pune",620000.0
+2021 Hyundai Venue SX Plus 1.0 Turbo DCT,Rs. 9.28 Lakh,"46,345 km",Petrol,"Hinjewadi, Pune",927999.9999999999
+2021 Hyundai Venue SX Plus 1.0 Turbo DCT,Rs. 9.33 Lakh,"46,896 km",Petrol,"Pune Sholapur Road, Pune",933000.0
+2016 Maruti Suzuki Swift VXi,Rs. 4.35 Lakh,"38,443 km",Petrol,"Pune Sholapur Road, Pune",434999.99999999994
+2021 Renault Kiger RXZ 1.0 Turbo MT,Rs. 6.56 Lakh,"33,903 km",Petrol,"Pune Sholapur Road, Pune",656000.0
+2022 Renault Kiger RXZ Turbo CVT,Rs. 7.98 Lakh,"31,398 km",Petrol,"Pune Sholapur Road, Pune",798000.0
+2022 Kia Sonet HTX 1.5 [2020-2021],Rs. 9.35 Lakh,"20,890 km",Diesel,"Hadapsar, Pune",935000.0
+2017 Maruti Suzuki Alto 800 LXi,Rs. 2.58 Lakh,"36,359 km",Petrol,"Hadapsar, Pune",258000.0
+2023 Tata Altroz XZ Plus i-Turbo Petrol,Rs. 7.33 Lakh,"25,154 km",Petrol,"Pune Sholapur Road, Pune",733000.0
+2020 Tata Altroz XE Petrol [2020-2023],Rs. 4.78 Lakh,"33,190 km",Petrol,"Lohegaon, Pune",478000.0
+2021 Tata Punch Creative Dual Tone [2022-2023],Rs. 6.61 Lakh,"23,475 km",Petrol,"Wagholi, Pune",661000.0
+2019 Mercedes-Benz GLE Coupe 43 4MATIC [2017-2019],Rs. 74 Lakh,"30,500 km",Petrol,"Wakad, Pune",7400000.0
+2017 Land Rover Discovery Sport HSE Luxury 7-Seater,Rs. 25 Lakh,"92,619 km",Diesel,"Wakad, Pune",2500000.0
+2022 Jaguar F-Pace S R-Dynamic 2.0 Diesel [2021-2023],Rs. 49.99 Lakh,"52,112 km",Diesel,"Wakad, Pune",4999000.0
+2022 Land Rover Range Rover Velar S R-Dynamic 2.0 Diesel,Rs. 78 Lakh,"12,297 km",Diesel,"Wakad, Pune",7800000.0
+2021 Land Rover Discovery Sport SE R-Dynamic,Rs. 45 Lakh,"42,000 km",Diesel,"Wakad, Pune",4500000.0
+2018 Land Rover Discovery Sport HSE Luxury 7-Seater,Rs. 26.95 Lakh,"1,15,777 km",Diesel,"Wakad, Pune",2695000.0
+2014 Land Rover Range Rover Sport SDV6 S,Rs. 49.75 Lakh,"66,249 km",Diesel,"Wakad, Pune",4975000.0
+2024 Mini Cooper S,Rs. 47 Lakh,"9,800 km",Petrol,"Wakad, Pune",4700000.0
+2017 Honda WR-V VX MT Petrol,Rs. 5.29 Lakh,"24,500 km",Petrol,"Baner, Pune",529000.0
+2023 Mercedes-Benz E-Class E 200,Rs. 68.6 Lakh,"30,671 km",Petrol,"Baner Bypass Highway, Pune",6859999.999999999
+2023 Land Rover Range Rover SV 4.4 Petrol LWB,Rs. 3.99 Crore,"3,833 km",Mild Hybrid(Electric + Petrol),"Wakad, Pune",39900000.0
+2014 Toyota Land Cruiser LC 200 VX,Rs. 79.9 Lakh,"1,25,000 km",Diesel,"Senapati Bapat Road, Pune",7990000.000000001
+2021 Toyota Innova Crysta 2.4 Z 7 STR,Rs. 27.5 Lakh,"51,211 km",Diesel,"Armament Colony, Pune",2750000.0
+2014 Toyota Fortuner 3.0 4x2 AT,Rs. 15.2 Lakh,"3,00,500 km",Diesel,"Armament Colony, Pune",1520000.0
+2022 Maruti Suzuki Grand Vitara Zeta Plus Intelligent Hybrid eCVT [2022-2023],Rs. 16.8 Lakh,"68,799 km",Hybrid (Electric + Petrol),"Armament Colony, Pune",1680000.0
+2024 Hyundai Alcazar Platinum (O) 7 Seater 1.5 Diesel AT,Rs. 19 Lakh,"25,000 km",Diesel,"Mundhwa, Pune",1900000.0
+2024 BMW 7-Series 740i M Sport,Rs. 1.48 Crore,"2,622 km",Petrol,"Balewadi, Pune",14800000.0
+2024 Kia Sonet GTX Plus 1.5 Diesel AT,Rs. 13.5 Lakh,"9,317 km",Diesel,"Pune Sholapur Road, Pune",1350000.0
+2018 Mercedes-Benz GLA 200 d Style,Rs. 21.75 Lakh,"61,800 km",Diesel,"Senapati Bapat Road, Pune",2175000.0
+2019 Audi Q3 30 TFSI Premium,Rs. 25 Lakh,"29,000 km",Petrol,"Senapati Bapat Road, Pune",2500000.0
+2024 Mercedes-Benz GLC 220d 4MATIC Progressive,Rs. 70 Lakh,"19,800 km",Diesel,"Koregaon Park, Pune",7000000.0
+2021 Kia Carnival Prestige 9 STR,Rs. 26.5 Lakh,"67,600 km",Diesel,"Koregaon Park, Pune",2650000.0
+2020 BMW X1 sDrive20i xLine,Rs. 28 Lakh,"37,200 km",Petrol,"Koregaon Park, Pune",2800000.0
+2016 BMW 5-Series 523i Sedan,Rs. 17 Lakh,"39,900 km",Petrol,"Koregaon Park, Pune",1700000.0
+2009 Honda City 1.5 S AT,Rs. 3.5 Lakh,"37,500 km",Petrol,"Koregaon Park, Pune",350000.0
+2014 Audi A6 2.0 TDI Technology Pack,Rs. 10.75 Lakh,"1,20,500 km",Diesel,"Koregaon Park, Pune",1075000.0
+2019 Lexus NX 300h Luxury [2017-2020],Rs. 36 Lakh,"60,200 km",Petrol,"Koregaon Park, Pune",3600000.0
+2014 Mercedes-Benz B-class B180 CDI,Rs. 10 Lakh,"62,100 km",Diesel,"Koregaon Park, Pune",1000000.0
+2017 Hyundai Elite i20 Magna 1.4 AT [2016-2017],Rs. 6.75 Lakh,"26,800 km",Petrol,"Koregaon Park, Pune",675000.0
+2017 Mercedes-Benz C-Class C 200 Avantgarde,Rs. 23.5 Lakh,"39,400 km",Petrol,"Koregaon Park, Pune",2350000.0
+2015 Jaguar XF 2.2 Diesel Luxury,Rs. 16.25 Lakh,"46,700 km",Diesel,"Koregaon Park, Pune",1625000.0
+2019 Jaguar XE Prestige Diesel,Rs. 21.99 Lakh,"29,064 km",Diesel,"Wakad, Pune",2199000.0
+2021 Toyota Glanza G,Rs. 6.45 Lakh,"64,049 km",Petrol,"Baner, Pune",645000.0
+2020 Volkswagen Tiguan AllSpace 2.0 TSI,Rs. 27 Lakh,"31,307 km",Petrol,"Koregaon Park, Pune",2700000.0
+2016 Mercedes-Benz C-Class C 200 Avantgarde,Rs. 19.9 Lakh,"51,000 km",Petrol,"Senapati Bapat Road, Pune",1989999.9999999998
+2018 Mercedes-Benz GLE 250 d,Rs. 45 Lakh,"36,000 km",Diesel,"Senapati Bapat Road, Pune",4500000.0
+2016 Honda City V Diesel,Rs. 4.9 Lakh,"1,67,000 km",Diesel,"Wakad, Pune",490000.00000000006
+2012 Honda Accord 2.4 AT,Rs. 4.5 Lakh,"97,292 km",Petrol,"Fakhri Hills, Pune",450000.0
+2015 Hyundai Verna Fluidic 1.6 VTVT SX,Rs. 5.35 Lakh,"52,078 km",Petrol,"Wakad, Pune",535000.0
+2022 Hyundai Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,Rs. 6.79 Lakh,"43,604 km",CNG,"Baner, Pune",679000.0
+2022 Toyota Urban Cruiser Mid Grade AT,Rs. 7.75 Lakh,"25,065 km",Petrol,"Armament Colony, Pune",775000.0
+2014 Hyundai i20 Asta 1.2,Rs. 4.5 Lakh,"50,145 km",Petrol,"Baner, Pune",450000.0
+2022 Land Rover Discovery Sport SE R-Dynamic Petrol,Rs. 52 Lakh,"30,982 km",Petrol,"Wakad, Pune",5200000.0
+2020 Tata Tiago Revotron XT [2016-2019],Rs. 4.89 Lakh,"33,247 km",Petrol,"Lohegaon, Pune",488999.99999999994
+2022 Mercedes-Benz S-Class S 350d,Rs. 1.3 Crore,"23,000 km",Diesel,"Wakad, Pune",13000000.0
+2021 Kia Sonet HTX 1.0 iMT [2020-2021],Rs. 7.58 Lakh,"76,014 km",Petrol,"Hinjewadi, Pune",758000.0
+2023 Jaguar F-Pace S R-Dynamic 2.0 Diesel [2021-2023],Rs. 60 Lakh,"36,000 km",Diesel,"Wakad, Pune",6000000.0
+2022 Tata Nexon EV XZ Plus LUX,Rs. 11 Lakh,"19,100 km",Electric,"Koregaon Park, Pune",1100000.0
+2024 Land Rover Range Rover Evoque SE R-Dynamic Diesel,Rs. 58 Lakh,"33,400 km",Diesel,"Wakad, Pune",5800000.0
+2020 Nissan Kicks XV Premium Turbo 1.3,Rs. 8.29 Lakh,"11,269 km",Petrol,"Baner, Pune",828999.9999999999
+2015 Maruti Suzuki S-Cross Delta 1.3,Rs. 5.1 Lakh,"1,12,000 km",Diesel,"Katraj, Pune",509999.99999999994
+2016 BMW 7-Series 730d Sedan,Rs. 36 Lakh,"59,000 km",Diesel,"Balewadi, Pune",3600000.0
+2019 Jaguar F-Pace Prestige,Rs. 37 Lakh,"55,042 km",Diesel,"Balewadi, Pune",3700000.0
+2020 Land Rover Discovery Sport SE R-Dynamic,Rs. 48.9 Lakh,"39,052 km",Diesel,"Balewadi, Pune",4890000.0
+2022 Toyota Innova Crysta G 2.4 7 STR,Rs. 29 Lakh,"63,000 km",Diesel,"Senapati Bapat Road, Pune",2900000.0
+2014 BMW 7-Series 730Ld,Rs. 23 Lakh,"50,000 km",Diesel,"Senapati Bapat Road, Pune",2300000.0
+2018 Audi Q3 30 TFSI Premium,Rs. 21 Lakh,"64,000 km",Petrol,"Senapati Bapat Road, Pune",2100000.0
+2018 Volvo XC60 Inscription [2017-2020],Rs. 35.5 Lakh,"76,000 km",Diesel,"Senapati Bapat Road, Pune",3550000.0
+2020 Mercedes-Benz GLE Coupe 43 4MATIC [2017-2019],Rs. 75 Lakh,"30,000 km",Petrol,"Senapati Bapat Road, Pune",7500000.0
+2024 Land Rover Range Rover Velar HSE Dynamic 2.0 Diesel,Rs. 76 Lakh,"35,000 km",Diesel,"Wakad, Pune",7600000.0
+2019 Tata Nexon XMA Petrol,Rs. 7.25 Lakh,"54,983 km",Petrol,"Wakad, Pune",725000.0
+2023 Tata Tiago XZ Plus [2020-2023],Rs. 6.25 Lakh,"22,890 km",Petrol,"Wakad, Pune",625000.0
+2013 Hyundai i10 Sportz 1.2 AT Kappa2,Rs. 3.4 Lakh,"32,138 km",Petrol,"Wakad, Pune",340000.0
+2017 Toyota Innova Crysta 2.8 GX AT 7 STR [2016-2020],Rs. 16.75 Lakh,"1,17,913 km",Diesel,"Koregaon Park, Pune",1675000.0
+2019 Mini Cooper D 3 Door,Rs. 33.5 Lakh,"24,200 km",Diesel,"Koregaon Park, Pune",3350000.0
+2015 BMW 3-Series 320d Luxury Line,Rs. 13 Lakh,"42,600 km",Diesel,"Koregaon Park, Pune",1300000.0
+2022 Land Rover Discovery Sport SE R-Dynamic Petrol,Rs. 52 Lakh,"31,575 km",Petrol,"Wakad, Pune",5200000.0
+2018 Hyundai Elite i20 Asta 1.2 CVT,Rs. 6.5 Lakh,"38,000 km",Petrol,"Wakad, Pune",650000.0
+2016 Honda City VX CVT,Rs. 6.8 Lakh,"79,000 km",Petrol,"Armament Colony, Pune",680000.0
+2018 Honda City V,Rs. 6.95 Lakh,"37,198 km",Petrol,"Wanowrie, Pune",695000.0
+2022 Tata Altroz XZ Plus i-Turbo Petrol Dark Edition [2021-2023],Rs. 7.06 Lakh,"35,109 km",Petrol,"Pune Sholapur Road, Pune",706000.0
+2012 Mini Cooper 1.6,Rs. 14 Lakh,"49,300 km",Petrol,"Koregaon Park, Pune",1400000.0
+2011 BMW 7-Series 730Ld Sedan,Rs. 19 Lakh,"62,000 km",Diesel,"Mundhwa, Pune",1900000.0
+2016 Volkswagen Ameo Highline1.2L (P) [2016-2018],Rs. 4.5 Lakh,"65,830 km",Petrol,"Wakad, Pune",450000.0
+2018 Audi Q3 30 TDI Premium FWD,Rs. 17 Lakh,"60,000 km",Diesel,"Mundhwa, Pune",1700000.0
+2023 Toyota Innova Hyrcross VX (O) Hybrid 7 STR,Rs. 33 Lakh,"45,000 km",Hybrid (Electric + Petrol),"Mundhwa, Pune",3300000.0
+2019 Mercedes-Benz GLS 350 d,Rs. 54.95 Lakh,"99,000 km",Diesel,"Wanowrie, Pune",5495000.0
+2015 Mahindra XUV500 W10,Rs. 7.5 Lakh,"94,500 km",Diesel,"Pune Sholapur Road, Pune",750000.0
+2018 BMW X1 sDrive20d xLine,Rs. 22.5 Lakh,"64,758 km",Diesel,"Balewadi, Pune",2250000.0
+2019 Skoda Superb L&K TSI AT,Rs. 14.9 Lakh,"58,000 km",Petrol,"Mundhwa, Pune",1490000.0
+2019 Volkswagen Polo GT TSI,Rs. 8.65 Lakh,"73,000 km",Petrol,"Armament Colony, Pune",865000.0
+2019 Maruti Suzuki Vitara Brezza ZDi,Rs. 7.5 Lakh,"84,000 km",Diesel,"Pune Sholapur Road, Pune",750000.0
+2017 Volkswagen Polo Comfortline 1.2L (P),Rs. 3.95 Lakh,"90,621 km",Petrol,"Wanowrie, Pune",395000.0
+2016 Toyota Innova Crysta 2.4 V Diesel,Rs. 16.25 Lakh,"79,766 km",Diesel,"Pune Sholapur Road, Pune",1625000.0
+2021 Tata Safari XZA Plus,Rs. 15.11 Lakh,"1,19,845 km",Diesel,"Armament Colony, Pune",1511000.0
+2019 Mercedes-Benz GLE 250 d,Rs. 41.1 Lakh,"66,100 km",Diesel,"Koregaon Park, Pune",4110000.0
+2017 Hyundai Elite i20 Asta 1.2,Rs. 4.85 Lakh,"1,29,000 km",Petrol,"Kalewadi, Pune",484999.99999999994
+2019 Isuzu MU-X 4x2,Rs. 18.5 Lakh,"1,30,000 km",Diesel,"Kondhwa Budruk, Pune",1850000.0
+2021 Maruti Suzuki Celerio ZXi AMT ABS,Rs. 4.8 Lakh,"59,596 km",Petrol,"Wakad, Pune",480000.0
+2019 Hyundai Verna E 1.4 VTVT,Rs. 8.4 Lakh,"22,500 km",Petrol,"Wakad, Pune",840000.0
+2013 Maruti Suzuki Wagon R VXi,Rs. 2.95 Lakh,"73,834 km",Petrol,"Wakad, Pune",295000.0
+2013 Maruti Suzuki Wagon R VXi,Rs. 2.9 Lakh,"57,706 km",Petrol,"Wakad, Pune",290000.0
+2018 Maruti Suzuki Baleno Zeta Automatic,Rs. 6 Lakh,"56,181 km",Petrol,"Wakad, Pune",600000.0
+2021 Mercedes-Benz GLE 300d 4MATIC LWB [2020-2023],Rs. 68.5 Lakh,"56,000 km",Diesel,"Baner Bypass Highway, Pune",6850000.0
+2009 BMW 5-Series 525i Sedan,Rs. 7.5 Lakh,"52,500 km",Petrol,"Koregaon Park, Pune",750000.0
+2020 Ford Ecosport Titanium 1.5L TDCi,Rs. 8.2 Lakh,"84,100 km",Diesel,"Wakad, Pune",819999.9999999999
+2015 Hyundai Elite i20 Sportz 1.2 (O),Rs. 4.7 Lakh,"1,11,030 km",Petrol,"Wakad, Pune",470000.0
+2015 Volkswagen Vento Comfortline Diesel AT,Rs. 4.95 Lakh,"1,05,654 km",Diesel,"Armament Colony, Pune",495000.0
+2023 Tata Tiago XZ Plus CNG [2022-2023],Rs. 6.98 Lakh,"19,585 km",CNG,"Pune Sholapur Road, Pune",698000.0
+2014 Ford Ecosport Titanium 1.5 Ti-VCT AT,Rs. 4.86 Lakh,"75,681 km",Petrol,"Hinjewadi, Pune",486000.00000000006
+2022 Mercedes-Benz E-Class E 220 d Avantgarde,Rs. 62.5 Lakh,"30,500 km",Diesel,"Baner Bypass Highway, Pune",6250000.0
+2024 Mercedes-Benz EQS 580 4MATIC,Rs. 1.1 Crore,"2,892 km",Electric,"Baner Bypass Highway, Pune",11000000.0
+2014 Audi A6 2.0 TDI Premium Plus,Rs. 10.75 Lakh,"1,20,500 km",Diesel,"GPO Bus Stop, Pune",1075000.0
+2021 Mercedes-Benz GLS 400d 4MATIC [2020-2023],Rs. 87 Lakh,"49,000 km",Diesel,"Mundhwa, Pune",8700000.0
+2010 Honda Jazz Select Edition Old,Rs. 1.9 Lakh,"1,13,000 km",Petrol,"Katraj, Pune",190000.0
+2015 Toyota Etios VXD,Rs. 5.75 Lakh,"72,000 km",Diesel,"Katraj, Pune",575000.0
+2011 Honda Civic 1.8V MT,Rs. 2.5 Lakh,"1,68,212 km",Petrol,"Armament Colony, Pune",250000.0
+2016 Hyundai Creta E Plus 1.4 CRDI,Rs. 7.99 Lakh,"1,12,000 km",Diesel,"Pune Sholapur Road, Pune",799000.0
+2015 Toyota Innova 2.5 VX BS IV 8 STR,Rs. 10.5 Lakh,"1,49,990 km",Diesel,"Armament Colony, Pune",1050000.0
+2021 Mahindra XUV300 1.2 W6 [2019-2019],Rs. 8.25 Lakh,"23,668 km",Petrol,"Pune Sholapur Road, Pune",825000.0
+2019 Honda Jazz VX CVT Petrol,Rs. 6.3 Lakh,"30,409 km",Petrol,"Wanowrie, Pune",630000.0
+2018 Volkswagen Vento Highline Plus 1.2 (P) AT 16 Alloy,Rs. 6.75 Lakh,"68,978 km",Petrol,"Wanowrie, Pune",675000.0
+2014 Ford Ecosport Titanium 1.5 Ti-VCT AT,Rs. 5.5 Lakh,"43,335 km",Petrol,"Armament Colony, Pune",550000.0
+2017 Maruti Suzuki Baleno Delta 1.2 AT,Rs. 5.25 Lakh,"23,500 km",Petrol,"Wakad, Pune",525000.0
+2021 Hyundai Aura S 1.2 Petrol,Rs. 5.75 Lakh,"34,871 km",Petrol,"Pune Sholapur Road, Pune",575000.0
+2018 Land Rover Discovery Sport HSE 7-Seater,Rs. 29.95 Lakh,"76,000 km",Diesel,"Wanowrie, Pune",2995000.0
+2013 Jaguar XF 2.2 Diesel Luxury,Rs. 12.25 Lakh,"75,000 km",Diesel,"Wanowrie, Pune",1225000.0
+2015 Ford Ecosport Titanium 1.5L Ti-VCT AT,Rs. 5.25 Lakh,"75,000 km",Petrol,"Wanowrie, Pune",525000.0
+2012 Mahindra XUV500 W8,Rs. 4 Lakh,"89,000 km",Diesel,"Pune Sholapur Road, Pune",400000.0
+2022 Maruti Suzuki Wagon R ZXi 1.2,Rs. 5.25 Lakh,"29,700 km",Petrol,"Pune Sholapur Road, Pune",525000.0
+2011 Honda City 1.5 V AT,Rs. 2.75 Lakh,"75,000 km",Petrol,"Pune Sholapur Road, Pune",275000.0
+2021 Mahindra Marazzo M6 Plus 7 STR [2020],Rs. 9 Lakh,"84,587 km",Diesel,"Pune Sholapur Road, Pune",900000.0
+2024 Mahindra XUV700 AX 7 Diesel AT 7 STR [2023-2024],Rs. 22.5 Lakh,"33,000 km",Diesel,"Mundhwa, Pune",2250000.0
+2018 Maruti Suzuki DZire VXi,Rs. 5.25 Lakh,"85,528 km",Petrol,"Pune Sholapur Road, Pune",525000.0
+2018 Hyundai Santro Asta [2018-2020],Rs. 3.65 Lakh,"74,631 km",Petrol,"Armament Colony, Pune",365000.0
+2022 Mercedes-Benz GLC 220d 4MATIC Progressive,Rs. 49.9 Lakh,"39,717 km",Diesel,"Kondhwa Budruk, Pune",4990000.0
+2010 Mercedes-Benz E-Class E250 CDI BlueEfficiency,Rs. 7.99 Lakh,"69,000 km",Diesel,"Kondhwa Budruk, Pune",799000.0
+2016 Land Rover Discovery Sport SE 7-Seater,Rs. 18.5 Lakh,"1,11,940 km",Diesel,"Kondhwa Budruk, Pune",1850000.0
+2024 Jeep Meridian Overland 4x2 AT,Rs. 36 Lakh,"12,000 km",Diesel,"Kondhwa Budruk, Pune",3600000.0
+2015 Volkswagen Polo Highline1.2L (P),Rs. 4.5 Lakh,"81,500 km",Petrol,"Wakad, Pune",450000.0
+2019 Hyundai Grand i10 Magna 1.2 Kappa VTVT [2016-2017],Rs. 5.25 Lakh,"60,846 km",Petrol,"Wakad, Pune",525000.0
+2023 Mercedes-Benz EQS 580 4MATIC,Rs. 1.1 Crore,"2,892 km",Electric,"Baner Bypass Highway, Pune",11000000.0
+2020 Mahindra NuvoSport N8 AMT,Rs. 6.5 Lakh,"73,756 km",Diesel,"Armament Colony, Pune",650000.0
+2023 Mercedes-Benz EQE SUV 500 4MATIC,Rs. 80 Lakh,"33,000 km",Electric,"Kalyani Nagar, Pune",8000000.0
+2022 Toyota Urban Cruiser Hyryder V Hybrid [2022-2023],Rs. 15 Lakh,"43,159 km",Hybrid (Electric + Petrol),"Katraj, Pune",1500000.0
+2024 Toyota Urban Cruiser Hyryder V Hybrid [2023-2025],Rs. 20 Lakh,"7,500 km",Hybrid (Electric + Petrol),"Kondhwa Budruk, Pune",2000000.0
+2015 Nissan Terrano XV D THP 110 PS,Rs. 3.6 Lakh,"1,36,559 km",Diesel,"Katraj, Pune",360000.0
+2022 Honda City Hybrid eHEV ZX eHEV,Rs. 15.95 Lakh,"59,957 km",Hybrid (Electric + Petrol),"Kondhwa Budruk, Pune",1595000.0
+2025 Mercedes-Benz GLC 220d 4MATIC,Rs. 72 Lakh,"10,000 km",Diesel,"Kondhwa Budruk, Pune",7200000.0
+2023 Mercedes-Benz GLS 400d 4MATIC [2020-2023],Rs. 1.27 Crore,"22,000 km",Diesel,"Kondhwa Budruk, Pune",12700000.0
+2022 Hyundai Santro Magna CNG,Rs. 4.98 Lakh,"53,282 km",CNG,"Pune Sholapur Road, Pune",498000.00000000006
+2021 Audi e-tron 55 [2021-2024],Rs. 65 Lakh,"15,664 km",Electric,"Pune Sholapur Road, Pune",6500000.0
+2016 BMW X1 sDrive20d Expedition,Rs. 15.5 Lakh,"80,492 km",Diesel,"Pune Sholapur Road, Pune",1550000.0
+2022 BMW 7-Series 740 Li M Sport,Rs. 92 Lakh,"42,639 km",Petrol,"Pune Sholapur Road, Pune",9200000.0
+2023 Mercedes-Benz A-Class Limousine 200,Rs. 38.5 Lakh,"13,000 km",Petrol,"Baner Bypass Highway, Pune",3850000.0
+2024 Tata Tigor XZA Plus iCNG [2024-2025],Rs. 7.5 Lakh,"23,967 km",CNG,"Pune Sholapur Road, Pune",750000.0
+2023 Mercedes-Benz EQB 350 4MATIC,Rs. 60.5 Lakh,"7,000 km",Electric,"Baner Bypass Highway, Pune",6050000.0
+2022 Tata Altroz XZA Plus Petrol [2022-2023],Rs. 7.29 Lakh,"24,929 km",Petrol,"Hinjewadi, Pune",729000.0
+2013 Toyota Fortuner 3.0 4x4 MT,Rs. 11.5 Lakh,"2,33,700 km",Diesel,"Katraj, Pune",1150000.0
+2013 Toyota Corolla Altis 1.8 G,Rs. 3.75 Lakh,"47,763 km",Petrol,"Armament Colony, Pune",375000.0
+2021 Maruti Suzuki Baleno Zeta 1.2,Rs. 4.95 Lakh,"1,03,779 km",Petrol,"Katraj, Pune",495000.0
+2013 Toyota Innova 2.5 GX 8 STR BS-IV,Rs. 7.25 Lakh,"1,57,595 km",Diesel,"Katraj, Pune",725000.0
+2016 Land Rover Discovery Sport HSE 7-Seater,Rs. 22.5 Lakh,"43,000 km",Diesel,"Mundhwa, Pune",2250000.0
+2016 Audi A4 35 TDI Premium Plus,Rs. 16.5 Lakh,"47,600 km",Diesel,"GPO Bus Stop, Pune",1650000.0
+2019 Hyundai Creta 1.6 SX Plus AT Petrol,Rs. 9.5 Lakh,"88,450 km",Petrol,"Pune Sholapur Road, Pune",950000.0
+2019 Audi Q3 30 TFSI Premium,Rs. 21 Lakh,"46,000 km",Petrol,"Baner Bypass Highway, Pune",2100000.0
+2019 Hyundai Elite i20 Sportz Plus 1.4 CRDi,Rs. 7.15 Lakh,"1,14,308 km",Diesel,"Armament Colony, Pune",715000.0
+2017 Honda WR-V VX MT Diesel,Rs. 6.75 Lakh,"90,000 km",Diesel,"Pune Sholapur Road, Pune",675000.0
+2019 Hyundai Verna SX (O) 1.6 CRDi,Rs. 11.5 Lakh,"81,383 km",Diesel,"Armament Colony, Pune",1150000.0
+2022 Mercedes-Benz E-Class E 220 d Avantgarde,Rs. 62.5 Lakh,"62,50,000 km",Diesel,"Baner Bypass Highway, Pune",6250000.0
+2015 BMW 3 Series GT 320d Luxury Line [2014-2016],Rs. 15.95 Lakh,"85,000 km",Diesel,"Wanowrie, Pune",1595000.0
+2015 Audi A3 35 TDI Premium Plus + Sunroof,Rs. 10.25 Lakh,"1,01,000 km",Diesel,"Wanowrie, Pune",1025000.0
+2017 Audi Q5 3.0 TDI quattro Premium Plus,Rs. 16.5 Lakh,"69,000 km",Diesel,"Wanowrie, Pune",1650000.0
+2011 Hyundai i10 1.2 L Kappa Magna Special Edition,Rs. 2.1 Lakh,"68,000 km",Petrol,"Wanowrie, Pune",210000.0
+2024 Mercedes-Benz GLS 450d 4MATIC,Rs. 1.51 Crore,"8,000 km",Diesel,"Baner Bypass Highway, Pune",15100000.0
+2017 Tata Nexon XZ Plus Diesel Dual Tone,Rs. 7 Lakh,"10,38,000 km",Diesel,"Pune Sholapur Road, Pune",700000.0
+2015 Honda City V,Rs. 5.35 Lakh,"1,52,370 km",Petrol,"Armament Colony, Pune",535000.0
+2018 Isuzu D-Max V-Cross 4x4,Rs. 14.2 Lakh,"1,16,841 km",Diesel,"Armament Colony, Pune",1420000.0
+2021 Kia Sonet HTX 1.5 [2020-2021],Rs. 10.5 Lakh,"1,11,042 km",Diesel,"Armament Colony, Pune",1050000.0
+2021 MG Hector Sharp 2.0 Diesel Turbo MT,Rs. 13.7 Lakh,"82,000 km",Diesel,"Armament Colony, Pune",1370000.0
+2013 Audi A6 2.0 TDI Premium,Rs. 10.61 Lakh,"90,520 km",Diesel,"Armament Colony, Pune",1061000.0
+2011 Chevrolet Cruze LTZ AT,Rs. 3.5 Lakh,"1,10,000 km",Diesel,"Wakad, Pune",350000.0
+2013 Toyota Innova 2.5 G 8 STR BS-IV,Rs. 6.95 Lakh,"1,03,000 km",Petrol,"Wanowrie, Pune",695000.0
+2018 Mercedes-Benz GLA 200 d Sport,Rs. 18.75 Lakh,"49,000 km",Diesel,"Wanowrie, Pune",1875000.0
+2025 Mercedes-Benz CLE cabriolet 300 AMG Line,Rs. 1.05 Crore,"1,000 km",Petrol,"Kalyani Nagar, Pune",10500000.0
+2013 Hyundai i10 1.1L iRDE Magna Special Edition,Rs. 2.35 Lakh,"1,12,326 km",Petrol,"Wakad, Pune",235000.0
+2023 Mercedes-Benz E-Class E 220 d Avantgarde,Rs. 70 Lakh,200 km,Diesel,"Kalyani Nagar, Pune",7000000.0
+2020 Toyota Innova Crysta 2.4 V Diesel,Rs. 18.5 Lakh,"2,21,690 km",Diesel,"Katraj, Pune",1850000.0
+2022 Toyota Glanza V AMT [2022-2023],Rs. 7 Lakh,"70,169 km",Petrol,"Katraj, Pune",700000.0
+2016 Toyota Etios VXD Xclusive,Rs. 6.5 Lakh,"1,49,850 km",Diesel,"Katraj, Pune",650000.0
+2021 Volkswagen Taigun Highline 1.0 TSI AT,Rs. 10.7 Lakh,"30,824 km",Petrol,"Katraj, Pune",1070000.0
+2014 BMW 3 Series GT 320d Sport Line [2014-2016],Rs. 16 Lakh,"82,591 km",Diesel,"Pune Sholapur Road, Pune",1600000.0
+2020 Mercedes-Benz GLE 300d 4MATIC LWB [2020-2023],Rs. 65 Lakh,"57,019 km",Diesel,"Pune Sholapur Road, Pune",6500000.0
+2019 Audi Q3 2.0 TDI quattro Premium Plus,Rs. 23 Lakh,"77,359 km",Diesel,"Pune Sholapur Road, Pune",2300000.0
+2025 Mercedes-Benz EQS SUV 450 5 Seater,Rs. 1.22 Crore,"3,000 km",Electric,"Kalyani Nagar, Pune",12200000.0
+2020 Toyota Urban Cruiser Premium Grade MT,Rs. 6.7 Lakh,"91,580 km",Petrol,"Katraj, Pune",670000.0
+2014 Honda City 1.5 S MT,Rs. 4.25 Lakh,"1,03,543 km",Petrol,"Armament Colony, Pune",425000.0
+2021 Skoda Kushaq Ambition 1.0L TSI AT,Rs. 10.95 Lakh,"89,650 km",Petrol,"Armament Colony, Pune",1095000.0
+2025 Hyundai Exter SX 1.2 AMT Knight Edition,Rs. 8.5 Lakh,"12,200 km",Petrol,"Pune Sholapur Road, Pune",850000.0
+2024 Audi Q7 Bold Edition,Rs. 80 Lakh,"4,500 km",Petrol,"Baner Bypass Highway, Pune",8000000.0
+2017 Maruti Suzuki Ignis Zeta 1.2 AMT,Rs. 4.85 Lakh,"64,123 km",Petrol,"Armament Colony, Pune",484999.99999999994
+2021 Mahindra Bolero N10 (O),Rs. 9 Lakh,"41,735 km",Diesel,"Pune Sholapur Road, Pune",900000.0
+2013 Toyota Fortuner 3.0 4x4 MT,Rs. 12.5 Lakh,"1,75,351 km",Diesel,"Pune Sholapur Road, Pune",1250000.0
+2022 Renault Kiger RXZ Turbo CVT,Rs. 8.03 Lakh,"29,807 km",Petrol,"Hinjewadi, Pune",802999.9999999999
+2024 Mercedes-Benz C-Class C 300,Rs. 70 Lakh,"1,108 km",Mild Hybrid(Electric + Petrol),"Baner Bypass Highway, Pune",7000000.0
+2024 Mercedes-Benz GLE 450 4MATIC LWB [2020-2023],Rs. 1.2 Crore,"9,434 km",Petrol,"Baner Bypass Highway, Pune",12000000.0
+2021 Kia Sonet HTX 1.0 iMT [2020-2021],Rs. 7.64 Lakh,"58,681 km",Petrol,"Pune Sholapur Road, Pune",764000.0
+2018 Jeep Compass Limited 2.0 Diesel [2017-2020],Rs. 8.75 Lakh,"78,334 km",Diesel,"Armament Colony, Pune",875000.0
+2019 Maruti Suzuki Vitara Brezza ZDi Plus,Rs. 8.1 Lakh,"1,12,700 km",Diesel,"Katraj, Pune",810000.0
+2016 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],Rs. 15.5 Lakh,"2,59,843 km",Diesel,"Katraj, Pune",1550000.0
+2018 Maruti Suzuki Swift VXi AMT [2018-2019],Rs. 5.55 Lakh,"75,000 km",Petrol,"Kalewadi, Pune",555000.0
+2012 Toyota Fortuner 3.0 4x2 MT,Rs. 11.45 Lakh,"1,97,000 km",Diesel,"Kalewadi, Pune",1145000.0
+2022 Hyundai Creta S Plus 1.5 Diesel Knight,Rs. 15.5 Lakh,"92,542 km",Diesel,"Armament Colony, Pune",1550000.0
+2021 Tata Safari XT Plus,Rs. 14.2 Lakh,"51,243 km",Diesel,"Armament Colony, Pune",1420000.0
+2018 Hyundai Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],Rs. 4.65 Lakh,"57,000 km",Petrol + 1,"Kalewadi, Pune",465000.00000000006
+2010 Toyota Corolla Altis 1.8 G,Rs. 2.75 Lakh,"1,00,050 km",Petrol + 1,"Armament Colony, Pune",275000.0
+2018 Audi Q3 30 TDI Premium FWD,Rs. 18.5 Lakh,"78,798 km",Diesel,"Armament Colony, Pune",1850000.0
+2024 Mercedes-Benz GLA 220d [2021-2023],Rs. 47 Lakh,"15,900 km",Diesel,"Baner Bypass Highway, Pune",4700000.0
+2024 Mercedes-Benz GLE 450 4MATIC LWB [2020-2023],Rs. 96 Lakh,"10,911 km",Petrol,"Baner Bypass Highway, Pune",9600000.0
+2023 Volkswagen Virtus Topline 1.0 TSI AT,Rs. 13.75 Lakh,"32,424 km",Petrol,"Rambaug Colony, Pune",1375000.0
+2023 Mercedes-Benz EQB 350 4MATIC,Rs. 46 Lakh,"32,000 km",Electric,"Kalyani Nagar, Pune",4600000.0
+2024 Mercedes-Benz EQA 250 Plus,Rs. 41 Lakh,"21,000 km",Electric,"Kalyani Nagar, Pune",4100000.0
+2023 Hyundai Aura SX 1.2 CNG,Rs. 7.1 Lakh,"57,000 km",CNG,"Kalewadi, Pune",710000.0
+2019 BMW X3 xDrive 20d Luxury Line [2018-2020],Rs. 34 Lakh,"55,154 km",Diesel,"Pune Sholapur Road, Pune",3400000.0
+2016 BMW 3 Series GT 320d Luxury Line [2014-2016],Rs. 17.9 Lakh,"77,858 km",Diesel,"Pune Sholapur Road, Pune",1789999.9999999998
+2022 BMW X1 sDrive20d xLine,Rs. 39 Lakh,"23,236 km",Diesel,"Pune Sholapur Road, Pune",3900000.0
+2014 Honda Amaze 1.2 S i-VTEC,Rs. 3.1 Lakh,"83,849 km",Petrol,"Katraj, Pune",310000.0
+2024 Mercedes-Benz AMG GLC 43 Coupe 4MATIC,Rs. 1.2 Crore,"7,199 km",Petrol,"Baner Bypass Highway, Pune",12000000.0
+2020 Volkswagen Polo Comfortline Plus 1.0L MPI,Rs. 5.75 Lakh,"75,384 km",Petrol,"Armament Colony, Pune",575000.0
+2021 Skoda Kushaq Style 1.5L TSI DSG (6 Airbags),Rs. 15 Lakh,"32,700 km",Petrol,"GPO Bus Stop, Pune",1500000.0
+2022 Kia Sonet HTX 1.0 iMT [2020-2021],Rs. 8.62 Lakh,"18,508 km",Petrol,"Hinjewadi, Pune",861999.9999999999
+2024 Mercedes-Benz C-Class C 220d [2022-2023],Rs. 55 Lakh,"10,500 km",Diesel,"Baner Bypass Highway, Pune",5500000.0
+2012 Mini Cooper S 3 Door [2018-2020],Rs. 14 Lakh,"49,300 km",Petrol,"GPO Bus Stop, Pune",1400000.0
+2019 Mercedes-Benz GLA 200d Urban Edition,Rs. 20.5 Lakh,"60,000 km",Diesel,"Kalyani Nagar, Pune",2050000.0
+2024 Audi A6 Technology 45 TFSI [2019-2024],Rs. 54 Lakh,"9,000 km",Petrol,"Baner Bypass Highway, Pune",5400000.0
+2023 Tata Tigor XZA Plus [2020-2023],Rs. 7.9 Lakh,"11,021 km",Petrol,"Armament Colony, Pune",790000.0
+2024 Audi Q3 Sportback Technology,Rs. 41 Lakh,"17,000 km",Petrol,"Baner Bypass Highway, Pune",4100000.0
+2023 Tata Tigor XZ Plus Leatherette Pack,Rs. 7.75 Lakh,126 km,Petrol,"Wakad, Pune",775000.0
+2024 Tata Altroz Racer R3,Rs. 10.99 Lakh,"3,520 km",Petrol,"Wakad, Pune",1099000.0
+2025 Skoda kylaq Prestige AT,Rs. 13.6 Lakh,"8,343 km",Petrol,"Wakad, Pune",1360000.0
+2023 Tata Altroz XZ iCNG,Rs. 9.25 Lakh,"19,234 km",CNG,"Armament Colony, Pune",925000.0
+2024 Audi Q7 Technology 55 TFSI,Rs. 80 Lakh,"4,500 km",Petrol,"Baner Bypass Highway, Pune",8000000.0
+2024 Audi Q5 Technology 45 TFSI [2021-2024],Rs. 54 Lakh,"11,000 km",Petrol,"Baner Bypass Highway, Pune",5400000.0
+2023 Mercedes-Benz EQE SUV 500 4MATIC,Rs. 80 Lakh,"32,227 km",Electric,"Kalyani Nagar, Pune",8000000.0
+2024 Mercedes-Benz GLS 450 4MATIC,Rs. 1.46 Crore,"7,635 km",Petrol,"Baner Bypass Highway, Pune",14600000.0
+2024 Mercedes-Benz E-Class E 220 d Avantgarde,Rs. 90 Lakh,"9,852 km",Diesel,"Baner Bypass Highway, Pune",9000000.0
+2018 Toyota Innova Crysta 2.4 G 8 STR [2016-2017],Rs. 15.59 Lakh,"58,000 km",Diesel,"Baner, Pune",1559000.0
+2018 BMW X3 xDrive 20d Luxury Line [2018-2020],Rs. 34 Lakh,"55,154 km",Diesel,"Balewadi, Pune",3400000.0
+2018 Toyota Innova Crysta 2.8 ZX AT 7 STR [2016-2020],Rs. 20.65 Lakh,"67,000 km",Diesel,"Armament Colony, Pune",2064999.9999999998
+2025 Mercedes-Benz GLE 450 4MATIC LWB,Rs. 98 Lakh,"5,500 km",Mild Hybrid(Electric + Petrol),"Kalyani Nagar, Pune",9800000.0
+2020 Kia Sonet GTX Plus 1.0 iMT [2020-2021],Rs. 8.7 Lakh,"28,249 km",Petrol,"Hinjewadi, Pune",869999.9999999999
+2020 Kia Seltos HTX 1.5 [2020-2021],Rs. 11.14 Lakh,"22,101 km",Petrol,"Hinjewadi, Pune",1114000.0
+2024 Hyundai Grand i10 NIOS Sportz 1.2 Kappa AMT,Rs. 6.72 Lakh,"29,763 km",Petrol,"Pune Sholapur Road, Pune",672000.0
+2022 Tata Punch Accomplished MT [2021-2023],Rs. 6.35 Lakh,"37,221 km",Petrol,"Hinjewadi, Pune",635000.0
+2022 Renault Kiger RXZ Turbo CVT,Rs. 8.02 Lakh,"21,818 km",Petrol,"Wagholi, Pune",802000.0
+2021 Tata Nexon XZA Plus (O) Diesel,Rs. 10.06 Lakh,"24,174 km",Diesel,"Hinjewadi, Pune",1006000.0
+2022 Hyundai Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,Rs. 5.92 Lakh,"48,261 km",CNG,"Wagholi, Pune",592000.0
+2021 Kia Sonet GTX Plus 1.5 AT [2020-2021],Rs. 11.09 Lakh,"41,684 km",Diesel,"Hinjewadi, Pune",1109000.0
+2023 Tata Altroz XZA Plus Petrol [2022-2023],Rs. 7.74 Lakh,"29,955 km",Petrol,"Hinjewadi, Pune",774000.0
+2018 Tata Nexon XZ Plus,Rs. 6.1 Lakh,"60,721 km",Petrol,"Hinjewadi, Pune",610000.0
+2015 Maruti Suzuki Alto 800 Lxi (Airbag) [2012-2015],Rs. 2.46 Lakh,"39,373 km",Petrol,"Wagholi, Pune",246000.0
+2021 Kia Sonet HTX 1.0 iMT [2020-2021],Rs. 8.12 Lakh,"23,941 km",Petrol,"Hinjewadi, Pune",811999.9999999999
+2023 Tata Nexon XZA Plus (S),Rs. 9.92 Lakh,"23,037 km",Petrol,"Pune Sholapur Road, Pune",992000.0
+2022 Tata Harrier XZA Plus,Rs. 15.83 Lakh,"58,911 km",Diesel,"Hinjewadi, Pune",1583000.0
+2019 Maruti Suzuki Swift VXi AMT,Rs. 5.84 Lakh,"31,668 km",Petrol,"Hinjewadi, Pune",584000.0
+2021 Maruti Suzuki Wagon R LXi (O) 1.0 CNG,Rs. 5.75 Lakh,"80,378 km",CNG,"M.Phulenagar, Pune",575000.0
+2009 Hyundai Santro GL,Rs. 1.25 Lakh,"1,11,042 km",Petrol,"M.Phulenagar, Pune",125000.0
+2022 Tata Nexon XZA Plus Kaziranga,Rs. 10.39 Lakh,"33,274 km",Petrol,"Lohegaon, Pune",1039000.0
+2021 Ford Ecosport S Petrol [2019-2020],Rs. 9.29 Lakh,"9,489 km",Petrol,"Pune Sholapur Road, Pune",928999.9999999999
+2019 Hyundai Grand i10 NIOS Asta 1.2 Kappa VTVT,Rs. 5.56 Lakh,"32,512 km",Petrol,"Armament Colony, Pune",556000.0
+2013 Maruti Suzuki Swift DZire ZXI,Rs. 4.21 Lakh,"67,687 km",Petrol,"Pune Sholapur Road, Pune",421000.0
+2023 Tata Tigor XZA Plus [2020-2023],Rs. 7.09 Lakh,"21,290 km",Petrol,"Armament Colony, Pune",709000.0
+2016 Volkswagen Polo Comfortline 1.2L (P),Rs. 4.78 Lakh,"22,096 km",Petrol,"Armament Colony, Pune",478000.0
+2022 Tata Harrier XZA Plus Dark Edition,Rs. 17.42 Lakh,"31,451 km",Diesel,"Pune Sholapur Road, Pune",1742000.0000000002
+2017 Maruti Suzuki Ciaz ZXI+,Rs. 5.91 Lakh,"66,663 km",Petrol,"Pune Sholapur Road, Pune",591000.0
+2023 Tata Punch Accomplished MT [2021-2023],Rs. 6.8 Lakh,"18,872 km",Petrol,"Armament Colony, Pune",680000.0
+2023 Tata Altroz XM Plus Petrol,Rs. 5.97 Lakh,"27,961 km",Petrol,"Armament Colony, Pune",597000.0
+2022 Tata Harrier XZA Plus Dark Edition,Rs. 17.17 Lakh,"31,451 km",Diesel,"Hinjewadi, Pune",1717000.0000000002
+2023 Hyundai Venue SX 1.2 Petrol,Rs. 8.98 Lakh,"20,145 km",Petrol,"Armament Colony, Pune",898000.0
+2019 Hyundai Creta SX 1.6 AT Petrol,Rs. 11.86 Lakh,"52,692 km",Petrol,"Hinjewadi, Pune",1186000.0
+2022 Tata Harrier Kaziranga XZA Plus,Rs. 16.58 Lakh,"48,678 km",Diesel,"Armament Colony, Pune",1657999.9999999998
+2022 Tata Nexon XZ Plus (S) [2022-2023],Rs. 9.25 Lakh,"29,030 km",Petrol,"Armament Colony, Pune",925000.0
+2023 Maruti Suzuki Wagon R ZXI Plus 1.2 AGS [2023-2025],Rs. 6.12 Lakh,"22,661 km",Petrol,"Armament Colony, Pune",612000.0
+2023 Maruti Suzuki Alto K10 VXi [2023-2024],Rs. 4.81 Lakh,"21,192 km",Petrol,"Pune Sholapur Road, Pune",480999.99999999994
+2023 Tata Nexon Creative Plus 1.2 Petrol 6AMT [2023-2025],Rs. 10.2 Lakh,"3,381 km",Petrol,"Armament Colony, Pune",1019999.9999999999
+2019 Honda WR-V VX MT Petrol,Rs. 6.77 Lakh,"40,889 km",Petrol,"Pune Sholapur Road, Pune",677000.0
+2017 Maruti Suzuki DZire VXi,Rs. 5.29 Lakh,"27,155 km",Petrol,"Armament Colony, Pune",529000.0
+2014 Honda City VX Petrol CVT [2023-2025],Rs. 5.61 Lakh,"61,452 km",Petrol,"Armament Colony, Pune",561000.0
+2024 Hyundai Venue S (O) Plus 1.2 Petrol,Rs. 8.81 Lakh,"9,765 km",Petrol,"Armament Colony, Pune",881000.0
+2019 Kia Seltos GTX Plus 1.4 DCT,Rs. 12.67 Lakh,"34,921 km",Petrol,"Hinjewadi, Pune",1267000.0
+2023 Mahindra Thar LX Hard Top Diesel MT 4WD,Rs. 13.34 Lakh,"48,180 km",Diesel,"Hinjewadi, Pune",1334000.0
+2023 Hyundai Verna SX (O) 1.5 Turbo Petrol DCT,Rs. 14.23 Lakh,"47,021 km",Petrol,"Hinjewadi, Pune",1423000.0
+2019 Hyundai Verna EX 1.4 VTVT,Rs. 7.52 Lakh,"18,656 km",Petrol,"Hinjewadi, Pune",752000.0
+2024 Tata Altroz Racer R3,Rs. 9.32 Lakh,"4,716 km",Petrol,"Pune Sholapur Road, Pune",932000.0
+2022 Kia Sonet HTX 1.0 iMT [2020-2021],Rs. 8.72 Lakh,"33,286 km",Petrol,"Hinjewadi, Pune",872000.0000000001
+2022 Tata Nexon XZA Plus (Premium) Jet,Rs. 9.6 Lakh,"19,016 km",Petrol,"Hinjewadi, Pune",960000.0
+Name,Price,Kilometers,Fuel,Location,Price_Numeric
+2017 Renault Duster RXS CVT,Rs. 6.99 Lakh,"63,272 km",Petrol,"BTM Layout, Bangalore",699000.0
+2018 Maruti Suzuki Baleno Alpha Automatic,Rs. 6.95 Lakh,"53,378 km",Petrol,"BTM Layout, Bangalore",695000.0
+2023 Hyundai Venue SX (O) 1.0 Turbo DCT,Rs. 12.95 Lakh,"8,314 km",Petrol,"BTM Layout, Bangalore",1295000.0
+2021 Mahindra Thar LX Hard Top Diesel AT 4WD [2023],Rs. 14.25 Lakh,"44,736 km",Diesel,"BTM Layout, Bangalore",1425000.0
+2023 Mahindra Thar LX Hard Top Diesel AT 4WD [2023],Rs. 16.31 Lakh,"13,498 km",Diesel,"Adugodi, Bangalore",1630999.9999999998
+2023 Mahindra XUV700 AX 7 Petrol AT Luxury Pack 7 STR [2021],Rs. 20.49 Lakh,"26,097 km",Petrol,"Adugodi, Bangalore",2048999.9999999998
+2022 Jeep Compass Model S (O) Diesel 4x4 AT,Rs. 23.49 Lakh,"48,606 km",Diesel,"Kothanur, Bangalore",2349000.0
+2020 Tata Nexon XM,Rs. 7.95 Lakh,"17,763 km",Petrol,"Kothanur, Bangalore",795000.0
+2023 Kia Seltos GTX Plus 1.5 Turbo Petrol DCT [2023-2024],Rs. 18.5 Lakh,"21,571 km",Petrol,"BTM Layout, Bangalore",1850000.0
+2016 Maruti Suzuki Swift ZXi,Rs. 5.85 Lakh,"64,078 km",Petrol,"BTM Layout, Bangalore",585000.0
+2021 MG Hector Sharp 2.0 Diesel [2019-2020],Rs. 15.75 Lakh,"42,196 km",Diesel,"BTM Layout, Bangalore",1575000.0
+2022 Mahindra XUV700 AX7 Luxury Pack 2WD Diesel 2.2L Turbo Automatic 7 STR,Rs. 21.75 Lakh,"50,315 km",Diesel,"BTM Layout, Bangalore",2175000.0
+2017 Mahindra XUV500 W8 AT [2015-2017],Rs. 10.95 Lakh,"70,788 km",Diesel,"BTM Layout, Bangalore",1095000.0
+2019 Maruti Suzuki Vitara Brezza ZDi Plus,Rs. 9.5 Lakh,"47,909 km",Diesel,"BTM Layout, Bangalore",950000.0
+2022 Volkswagen Taigun GT Plus 1.5 TSI DSG,Rs. 15.95 Lakh,"56,222 km",Petrol,"BTM Layout, Bangalore",1595000.0
+2022 Mahindra XUV700 AX7 Luxury Pack 2WD Diesel 2.2L Turbo Automatic 7 STR,Rs. 22.75 Lakh,"35,787 km",Diesel,"BTM Layout, Bangalore",2275000.0
+2020 BMW X1 sDrive20d xLine,Rs. 30.99 Lakh,"42,512 km",Diesel,"BTM Layout, Bangalore",3099000.0
+2021 Volkswagen Taigun Topline 1.0 TSI MT,Rs. 12.5 Lakh,"22,721 km",Petrol,"Singasandra, Bangalore",1250000.0
+2021 Tata Harrier XT Plus,Rs. 16.99 Lakh,"29,899 km",Diesel,"Singasandra, Bangalore",1698999.9999999998
+2022 Hyundai Venue S 1.2 Petrol,Rs. 7.99 Lakh,"26,292 km",Petrol,"Singasandra, Bangalore",799000.0
+2018 BMW X1 sDrive20d xLine,Rs. 26.75 Lakh,"36,620 km",Diesel,"Koramangala, Bangalore",2675000.0
+2021 BMW 3-Series 330i M Sport Edition,Rs. 39 Lakh,"46,780 km",Petrol,"Yelahanka, Bangalore",3900000.0
+2016 BMW 3-Series 320d Luxury Line,Rs. 21.5 Lakh,"55,800 km",Diesel,"Yelahanka, Bangalore",2150000.0
+2016 BMW 5-Series 520d Luxury Line [2017-2019],Rs. 25.95 Lakh,"54,000 km",Diesel,"Yelahanka, Bangalore",2595000.0
+2018 Hyundai Creta SX 1.6 AT Petrol,Rs. 10.5 Lakh,"72,874 km",Petrol,"BTM Layout, Bangalore",1050000.0
+2023 Hyundai Venue N Line N6 MT,Rs. 11.99 Lakh,"7,348 km",Petrol,"BTM Layout, Bangalore",1199000.0
+2018 Honda BR-V V CVT Petrol,Rs. 9.11 Lakh,"20,909 km",Petrol,"Adugodi, Bangalore",911000.0
+2022 Maruti Suzuki S-Cross Zeta,Rs. 9.49 Lakh,"35,410 km",Petrol,"Begur, Bangalore",949000.0
+2016 Hyundai Creta 1.6 S Petrol,Rs. 7.69 Lakh,"71,260 km",Petrol,"Kothanur, Bangalore",769000.0
+2015 Hyundai i20 Active 1.2 S,Rs. 5.49 Lakh,"31,514 km",Petrol,"Kothanur, Bangalore",549000.0
+2021 Skoda Kushaq Style 1.5L TSI DSG (6 Airbags),Rs. 14.89 Lakh,"40,859 km",Petrol,"Kothanur, Bangalore",1489000.0
+2020 Hyundai Grand i10 NIOS Asta AMT 1.2 Kappa VTVT,Rs. 6.35 Lakh,"51,217 km",Petrol,"Kothanur, Bangalore",635000.0
+2023 Kia Seltos GTX Plus (S) 1.5 Turbo Petrol DCT [2023-2024],Rs. 18.95 Lakh,"3,182 km",Petrol,"Kothanur, Bangalore",1895000.0
+2023 Kia Seltos GTX Plus 1.5 Diesel AT,Rs. 19.49 Lakh,"17,466 km",Diesel,"Kothanur, Bangalore",1948999.9999999998
+2023 Kia Seltos GTX Plus 1.5 Diesel AT,Rs. 19.49 Lakh,"24,885 km",Diesel,"Kothanur, Bangalore",1948999.9999999998
+2023 Mahindra Thar LX Hard Top Petrol AT RWD,Rs. 13.95 Lakh,"24,120 km",Petrol,"Kothanur, Bangalore",1395000.0
+2018 Mahindra XUV500 W11 AT,Rs. 13.95 Lakh,"85,713 km",Diesel,"Kothanur, Bangalore",1395000.0
+2021 Hyundai Elite i20 Asta 1.2 IVT,Rs. 8.25 Lakh,"31,954 km",Petrol,"Kothanur, Bangalore",825000.0
+2021 Hyundai Elite i20 Sportz 1.2 MT [2020-2023],Rs. 7.89 Lakh,"27,150 km",Petrol,"Kothanur, Bangalore",789000.0
+2022 Kia Seltos HTX IVT 1.5 [2019-2020],Rs. 13.43 Lakh,"22,602 km",Petrol,"Adugodi, Bangalore",1343000.0
+2020 Kia Seltos GTX Plus 1.4 [2020-2021],Rs. 11.71 Lakh,"60,517 km",Petrol,"Adugodi, Bangalore",1171000.0
+2023 Jeep Compass Limited (O) 2.0 Diesel 4x4 AT [2021],Rs. 28.75 Lakh,"19,189 km",Diesel,"BTM Layout, Bangalore",2875000.0
+2016 Volkswagen Polo GT TSI,Rs. 8.75 Lakh,"29,519 km",Petrol,"BTM Layout, Bangalore",875000.0
+2023 MG Hector Plus Savvy Pro 1.5 Turbo Petrol CVT 6 STR,Rs. 19.49 Lakh,"29,981 km",Petrol,"Kothanur, Bangalore",1948999.9999999998
+2022 BMW 3-Series 330i M Sport Dark,Rs. 42 Lakh,"43,542 km",Petrol,"BTM Layout, Bangalore",4200000.0
+2020 Volkswagen Polo Highline Plus 1.0L TSI,Rs. 8.75 Lakh,"49,158 km",Petrol,"BTM Layout, Bangalore",875000.0
+2021 Hyundai i20 N Line N8 1.0 Turbo DCT,Rs. 9.35 Lakh,"35,263 km",Petrol,"BTM Layout, Bangalore",935000.0
+2018 Renault Duster RXS CVT,Rs. 7.75 Lakh,"57,077 km",Petrol,"BTM Layout, Bangalore",775000.0
+2019 Mercedes-Benz GLC 300 Progressive,Rs. 34.5 Lakh,"55,800 km",Petrol,"Yelahanka, Bangalore",3450000.0
+2024 Kia Seltos HTX 1.5 IVT,Rs. 14.99 Lakh,"49,138 km",Petrol,"Singasandra, Bangalore",1499000.0
+2014 Mercedes-Benz GL-Class 350 CDI,Rs. 34.99 Lakh,"21,479 km",Diesel,"BTM Layout, Bangalore",3499000.0
+2019 Audi Q3 35 TDI quattro Technology,Rs. 28.95 Lakh,"52,153 km",Diesel,"BTM Layout, Bangalore",2895000.0
+2022 Mercedes-Benz GLC 220d 4MATIC Progressive,Rs. 54.75 Lakh,"31,472 km",Diesel,"BTM Layout, Bangalore",5475000.0
+2018 BMW X5 xDrive 30d,Rs. 44.75 Lakh,"52,800 km",Diesel,"BTM Layout, Bangalore",4475000.0
+2015 Honda City VX Diesel,Rs. 6.75 Lakh,"1,00,827 km",Diesel,"BTM Layout, Bangalore",675000.0
+2015 Hyundai Elantra 1.6 SX MT,Rs. 7.99 Lakh,"77,389 km",Diesel,"BTM Layout, Bangalore",799000.0
+2024 Mercedes-Benz GLS 450d 4MATIC,Rs. 1.42 Crore,"11,652 km",Diesel,"BTM Layout, Bangalore",14200000.0
+2019 Audi Q3 35 TDI quattro Technology,Rs. 21.95 Lakh,"89,085 km",Diesel,"BTM Layout, Bangalore",2195000.0
+2021 Mercedes-Benz C-Class C 220d [2022-2023],Rs. 31.75 Lakh,"42,380 km",Diesel,"BTM Layout, Bangalore",3175000.0
+2015 Toyota Corolla Altis GL Petrol,Rs. 6.99 Lakh,"72,314 km",Petrol,"Singasandra, Bangalore",699000.0
+2025 MG Astor Sharp Pro 1.5 CVT (Ivory),Rs. 14.5 Lakh,"9,712 km",Petrol,"Singasandra, Bangalore",1450000.0
+2021 Hyundai Grand i10 NIOS Asta 1.2 Kappa VTVT,Rs. 6.45 Lakh,"30,499 km",Petrol,"Singasandra, Bangalore",645000.0
+2022 Volkswagen Virtus Highline 1.0 TSI MT,Rs. 10.85 Lakh,"33,987 km",Petrol,"Singasandra, Bangalore",1085000.0
+2021 Kia Seltos HTX 1.5 [2020-2021],Rs. 11.99 Lakh,"54,809 km",Petrol,"Singasandra, Bangalore",1199000.0
+2023 Maruti Suzuki Grand Vitara Sigma Smart Hybrid [2023-2025],Rs. 11.5 Lakh,"23,210 km",Petrol,"Singasandra, Bangalore",1150000.0
+2021 Hyundai Elite i20 Sportz 1.2 IVT Dual Tone,Rs. 7.45 Lakh,"18,452 km",Petrol,"Singasandra, Bangalore",745000.0
+2020 Hyundai Creta SX 1.5 Petrol CVT [2020-2022],Rs. 13.95 Lakh,"27,709 km",Petrol,"Singasandra, Bangalore",1395000.0
+2016 Maruti Suzuki Baleno Delta 1.2,Rs. 5.45 Lakh,"31,582 km",Petrol,"Singasandra, Bangalore",545000.0
+2023 Kia Seltos HTX 1.5 IVT,Rs. 16.5 Lakh,"19,886 km",Petrol,"Singasandra, Bangalore",1650000.0
+2023 Kia Seltos GTX Plus 1.5 Turbo Petrol DCT [2023-2024],Rs. 18.45 Lakh,"21,759 km",Petrol,"Singasandra, Bangalore",1845000.0
+2019 Kia Seltos HTK Plus 1.5 Diesel [2019-2020],Rs. 12.65 Lakh,"62,930 km",Diesel,"Singasandra, Bangalore",1265000.0
+2021 Skoda Kushaq Ambition 1.0L TSI AT,Rs. 12.5 Lakh,"34,843 km",Petrol,"Singasandra, Bangalore",1250000.0
+2023 Skoda Slavia Style 1.0L TSI MT,Rs. 13.75 Lakh,"32,853 km",Petrol,"Singasandra, Bangalore",1375000.0
+2021 Tata Harrier XZA Plus,Rs. 14.9 Lakh,"45,000 km",Diesel,"Yelahanka, Bangalore",1490000.0
+2023 Skoda Slavia Style 1.0L TSI AT,Rs. 15.65 Lakh,"7,540 km",Petrol,"Singasandra, Bangalore",1565000.0
+2016 Ford Ecosport Titanium+ 1.0L EcoBoost,Rs. 5.95 Lakh,"99,790 km",Petrol,"Kothanur, Bangalore",595000.0
+2023 Mercedes-Benz G-Class AMG G 63 Grand Edition,Rs. 3.33 Crore,"18,000 km",Petrol,"Rajajinagar, Bangalore",33300000.0
+2020 Mercedes-Benz GLS 400d 4MATIC [2020-2023],Rs. 82.5 Lakh,"77,000 km",Diesel,"Rajajinagar, Bangalore",8250000.0
+2015 Volkswagen Polo Highline1.2L (P),Rs. 5.75 Lakh,"41,585 km",Petrol,"BTM Layout, Bangalore",575000.0
+2017 Honda Jazz V Petrol,Rs. 5.75 Lakh,"45,512 km",Petrol,"Singasandra, Bangalore",575000.0
+2024 Mahindra XUV700 AX7 Luxury Pack 2WD Petrol 2.0L Turbo Automatic 7 STR,Rs. 23.75 Lakh,"21,726 km",Petrol,"Singasandra, Bangalore",2375000.0
+2023 Tata Nexon Creative Plus (S) 1.2 6AMT,Rs. 11.85 Lakh,"17,533 km",Petrol,"Singasandra, Bangalore",1185000.0
+2017 Honda Jazz V Petrol,Rs. 4.99 Lakh,"65,376 km",Petrol,"Singasandra, Bangalore",499000.0
+2019 Hyundai Santro Sportz AMT [2018-2020],Rs. 5.5 Lakh,"22,835 km",Petrol,"Singasandra, Bangalore",550000.0
+2019 Skoda Kodiaq Style 2.0 TDI 4x4 AT,Rs. 27.5 Lakh,"55,836 km",Diesel,"Singasandra, Bangalore",2750000.0
+2015 Renault Duster RxL Petrol,Rs. 5.65 Lakh,"40,368 km",Petrol,"Singasandra, Bangalore",565000.0
+2018 Skoda Octavia 1.8 TSI L&K,Rs. 18.45 Lakh,"48,692 km",Petrol,"Singasandra, Bangalore",1845000.0
+2021 Tata Safari XZA Plus,Rs. 17.99 Lakh,"47,550 km",Diesel,"Singasandra, Bangalore",1798999.9999999998
+2022 Hyundai Creta SX 1.5 Petrol,Rs. 13.45 Lakh,"37,348 km",Petrol,"Singasandra, Bangalore",1345000.0
+2016 Mercedes-Benz CLA 200 CDI Sport,Rs. 20.75 Lakh,"34,160 km",Diesel,"Singasandra, Bangalore",2075000.0
+2018 Honda Jazz V CVT Petrol,Rs. 6.75 Lakh,"37,109 km",Petrol,"Singasandra, Bangalore",675000.0
+2021 Land Rover Range Rover Velar S R-Dynamic 2.0 Petrol,Rs. 69.95 Lakh,"8,788 km",Petrol,"Singasandra, Bangalore",6995000.0
+2012 Hyundai i20 Magna (O) 1.4 CRDI,Rs. 3.75 Lakh,"54,997 km",Diesel,"Singasandra, Bangalore",375000.0
+2022 BMW 3 Series Gran Limousine 330Li Luxury Line,Rs. 43 Lakh,"31,780 km",Petrol,"Yelahanka, Bangalore",4300000.0
+2023 Hyundai Grand i10 NIOS Sportz 1.2 Kappa VTVT,Rs. 6.75 Lakh,"30,066 km",Petrol,"Singasandra, Bangalore",675000.0
+2022 BMW X1 sDrive20i SportX,Rs. 33.5 Lakh,"15,000 km",Petrol,"Yelahanka, Bangalore",3350000.0
+2015 Mercedes-Benz GLA 45 AMG,Rs. 32 Lakh,"33,000 km",Petrol,"Banaswadi, Bangalore",3200000.0
+2019 Toyota Fortuner 2.8 4x4 AT,Rs. 31.5 Lakh,"99,000 km",Diesel,"Hebbal, Bangalore",3150000.0
+2014 Maruti Suzuki Celerio VXi AMT,Rs. 3.71 Lakh,"60,872 km",Petrol,"Bannerghatta Road, Bangalore",371000.0
+2018 Maruti Suzuki Baleno Zeta Automatic,Rs. 6 Lakh,"48,162 km",Petrol,"Bettahalsoor, Bangalore",600000.0
+2022 Hyundai Venue S Plus 1.5 CRDi,Rs. 9.1 Lakh,"85,000 km",Diesel,"Nayanda Halli, Bangalore",910000.0
+2023 Hyundai Alcazar Signature (O) 7 Seater 1.5 Diesel AT,Rs. 21 Lakh,"15,000 km",Diesel,"Banaswadi, Bangalore",2100000.0
+2023 Kia Carens Prestige Plus 1.4 Petrol DCT 7 STR,Rs. 18.95 Lakh,700 km,Petrol,"Banaswadi, Bangalore",1895000.0
+2017 Skoda Rapid Style 1.5 TDI AT,Rs. 10 Lakh,"72,576 km",Diesel,"Banaswadi, Bangalore",1000000.0
+2018 Mini Countryman Cooper S JCW Inspired,Rs. 29.75 Lakh,"30,000 km",Petrol,"Hebbal, Bangalore",2975000.0
+2017 Mercedes-Benz E-Class E 350 d Exclusive [2017-2019],Rs. 27 Lakh,"1,30,000 km",Diesel,"Banaswadi, Bangalore",2700000.0
+2016 Mercedes-Benz GLE 350 d,Rs. 35 Lakh,"1,10,000 km",Diesel,"Banaswadi, Bangalore",3500000.0
+2023 Hyundai Elite i20 Asta (O) 1.2 MT,Rs. 8.8 Lakh,"20,000 km",Petrol,"Nayanda Halli, Bangalore",880000.0000000001
+2022 Hyundai Alcazar Signature (O) 6 STR 1.5 Diesel AT,Rs. 16.5 Lakh,"60,000 km",Diesel,"Nayanda Halli, Bangalore",1650000.0
+2022 Toyota Fortuner 2.8 4x2 AT [2016-2020],Rs. 39 Lakh,"1,40,000 km",Diesel,"Hebbal, Bangalore",3900000.0
+2017 Hyundai Grand i10 Sportz 1.2 Kappa VTVT Dual Tone,Rs. 4.85 Lakh,"60,000 km",Petrol,"Nayanda Halli, Bangalore",484999.99999999994
+2023 Maruti Suzuki Swift ZXi,Rs. 7 Lakh,"14,566 km",Petrol,"Bettahalsoor, Bangalore",700000.0
+2017 Ford Ecosport Titanium 1.5L Ti-VCT Black Edition AT,Rs. 6.92 Lakh,"41,344 km",Petrol,"Mahadevapura, Bangalore",692000.0
+2017 Land Rover Range Rover Evoque HSE Dynamic,Rs. 30.75 Lakh,"97,000 km",Diesel,"Banaswadi, Bangalore",3075000.0
+2021 MG Gloster Savvy 6 STR 2.0 Twin Turbo 4WD,Rs. 23 Lakh,"88,000 km",Diesel,"Banaswadi, Bangalore",2300000.0
+2021 Tata Nexon EV XZ Plus,Rs. 8.3 Lakh,"47,000 km",Electric,"Banaswadi, Bangalore",830000.0000000001
+2018 Honda City V,Rs. 7 Lakh,"30,000 km",Petrol,"Banaswadi, Bangalore",700000.0
+2013 Jaguar XF 2.2 Diesel,Rs. 16.5 Lakh,"27,000 km",Diesel,"Banaswadi, Bangalore",1650000.0
+2023 Jeep Meridian Limited (O) 4X4 AT [2022],Rs. 24.9 Lakh,"88,000 km",Diesel,"Banaswadi, Bangalore",2490000.0
+2016 Tata Tiago Revotron XM [2016-2019],Rs. 3.85 Lakh,"56,433 km",Petrol,"Aranya Bhavan, Bangalore",385000.0
